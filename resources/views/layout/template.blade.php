@@ -56,7 +56,6 @@
 
     @include('layout/footer')
 
-
     <!-- modernizr js -->
     <script src="assets/js/modernizr-2.8.3.min.js"></script>
         <!-- jquery latest version -->
