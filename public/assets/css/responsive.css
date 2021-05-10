@@ -1328,14 +1328,14 @@
         margin-right: 0;
     }
     .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu {
-        background: #106eea;
+        background: #2d7a9e;
     }
     .full-width-header .rs-header .menu-area.sticky .main-menu .rs-menu ul.nav-menu > li > a,
     .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu > li > a {
         height: unset;
         line-height: normal;
         padding: 18px 20px !important;
-        border-bottom: 1px solid #257be5;
+        border-bottom: 1px solid #118aaf;
     }
     .full-width-header .rs-header .menu-area.sticky .main-menu .rs-menu ul.nav-menu > li:last-child > a,
     .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu > li:last-child > a {
@@ -1366,7 +1366,7 @@
     }
     .full-width-header.header-style2.md-mod .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li a:hover,
     .full-width-header.header-style2.md-mod .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li.active > a {
-        color: #257be5 !important;
+        color: #118aaf !important;
     }
     .full-width-header .rs-header .menu-area.sticky {
         position: unset; 
@@ -1434,7 +1434,7 @@
     }
     .full-width-header.header-style2.modify.red .rs-header .nav-menu > .menu-item-has-children > span.rs-menu-parent,
     .full-width-header.header-style2.modify.red .rs-header .nav-menu .rs-mega-menu > span.rs-menu-parent {
-        background: #257be5;
+        background: #118aaf;
     }
     .full-width-header.header-style2.modify.red .rs-header .menu-area .main-menu .rs-menu ul.nav-menu > li {
         margin-right: 0;
@@ -3514,7 +3514,7 @@
     .rs-blog.single .blog-part .article-content .markup-text {
         padding: 30px 25px 34px;
         border-left: none;
-        border-top: 5px solid #106eea;
+        border-top: 5px solid #2d7a9e;
     }
     .rs-blog.inner.single h2 {
         font-size: 25px;

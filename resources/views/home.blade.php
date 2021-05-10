@@ -81,7 +81,7 @@
                         <h2 class="title title3">More than 30+ years we provide IT & Software Solution</h2>
                     </div>
                     <div class="row">
-                        <div class="col-lg-3 col-md-6 md-mb-30">
+                        <div class="col-lg-4 col-md-6 md-mb-30">
                             <div class="services-item">
                                 <div class="iconbox-area">
                                     <div class="icon-part">
@@ -95,7 +95,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 md-mb-30">
+                        <div class="col-lg-4 col-md-6 md-mb-30">
                             <div class="services-item">
                                 <div class="iconbox-area">
                                     <div class="icon-part">
@@ -109,7 +109,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 sm-mb-30">
+                        <div class="col-lg-4 col-md-6 sm-mb-30">
                             <div class="services-item">
                                 <div class="iconbox-area">
                                     <div class="icon-part">
@@ -123,7 +123,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 ">
+                        <!-- <div class="col-lg-3 col-md-6 ">
                             <div class="services-item">
                                 <div class="iconbox-area">
                                     <div class="icon-part">
@@ -136,7 +136,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                         <div class="bottom-link text-center mt-43 sm-mt-23">
                             Increase your business success with technology.<a href="services.html">Let’s get started</a>
