@@ -3,7 +3,7 @@
     <head>
         <!-- meta tag -->
         <meta charset="utf-8">
-        <title>IT Solutions - Reobiz – Consulting Business HTML Template</title>
+        <title>Data Centrix</title>
         <meta name="description" content="">
         <!-- responsive tag -->
         <meta http-equiv="x-ua-compatible" content="ie=edge">
