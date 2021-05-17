@@ -18,11 +18,12 @@
         <div class="container">
             <div class="sec-title style2 mb-60 md-mb-50 sm-mb-42">
                 <div class="first-half text-right">
-                    <div class="sub-title primary">Premium Services</div>
-                    <h2 class="title mb-0">Business Services</h2>
+                    <div class="sub-title primary">Layanan</div>
+                    <h3 class="title mb-0" style="line-height:40px;">Beragam layanan Teknologi Informasi dan Komunikasi (TIK) yang sesuai dengan kebutuhan pribadi maupun bisnis Anda</h3>
                 </div>
                 <div class="last-half">
-                    <p class="desc mb-0 pr-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus, non suscip it arcu. Quisque aliquam posuere tortor aliquam posuere tortor develop database.</p>
+                    <p class="desc text-justify mb-2 pr-50">Sektor layanan Arthatel memanfaatkan teknologi untuk meningkatkan sistem dan proses internal dalam bisnis Anda. Dengan menambahkan kemajuan teknologi seperti konektivitas khusus, cloud computing, data hosting dan banyak lagi, Arthatel membantu dalam menyatukan proses, sumber daya manusia, sistem dan faktor lainnya yang dapat mempengaruhi operasional bisnis Anda.</p>
+                    <p class="desc text-justify mb-2 pr-50">Kami membantu Anda dalam mendesain ulang apapun yang tidak efisien, menciptakan model jaringan  baru dan memudahkan Anda untuk fokus pada bisnis utama sehingga usaha Anda dapat selalu relevan dengan pasar saat ini yang terus berkembang dan sangat kompetitif.</p>
                 </div>
             </div>
             <div class="row gutter-16">
@@ -32,7 +33,7 @@
                             <img src="assets/images/services/icons/modify/1.png" alt="">
                         </div>
                         <div class="content-part">
-                            <h5 class="title"><a href="services-single.html">Business Analysis</a></h5>
+                            <h5 class="title"><a href="services-single.html">Jaringan</a></h5>
                             <div class="desc">We always provide people a complete solution focused of any business.</div>
                         </div>
                     </div>
@@ -43,7 +44,7 @@
                             <img src="assets/images/services/icons/modify/2.png" alt="">
                         </div>
                         <div class="content-part">
-                            <h5 class="title"><a href="services-single.html">Reports Analysis</a></h5>
+                            <h5 class="title"><a href="services-single.html">Managed Services</a></h5>
                             <div class="desc">We always provide people a complete solution focused of any business.</div>
                         </div>
                     </div>
@@ -54,7 +55,7 @@
                             <img src="assets/images/services/icons/modify/3.png" alt="">
                         </div>
                         <div class="content-part">
-                            <h5 class="title"><a href="services-single.html">Profit Planning</a></h5>
+                            <h5 class="title"><a href="services-single.html">Internet</a></h5>
                             <div class="desc">We always provide people a complete solution focused of any business.</div>
                         </div>
                     </div>

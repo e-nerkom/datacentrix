@@ -19,6 +19,10 @@
             <div class="sec-title4 text-center mb-50">
                 <span class="sub-title new pb-10">MANAGED IT SERVICES</span>
                 <h2 class="title title3">More than 30+ years we provide IT & Software Solution</h2>
+                <p class="text-justify mt-4">Sektor layanan Arthatel memanfaatkan teknologi untuk meningkatkan sistem dan proses internal dalam bisnis Anda. Dengan menambahkan kemajuan teknologi seperti konektivitas khusus, cloud computing, data hosting dan banyak lagi, Arthatel membantu dalam menyatukan proses, sumber daya manusia, sistem dan faktor lainnya yang dapat mempengaruhi operasional bisnis Anda.</p>
+                <p class="text-justify mt-4">Kami membantu Anda dalam mendesain ulang apapun yang tidak efisien, menciptakan model jaringan  baru dan memudahkan Anda untuk fokus pada bisnis utama sehingga usaha Anda dapat selalu relevan dengan pasar saat ini yang terus berkembang dan sangat kompetitif.</p>
+                <p class="text-justify mt-4">Untuk semua kebutuhan TIK bisnis Anda, kami memiliki tim yang berpengalaman yang akan memastikan ekosistem TIK Anda berjalan seoptimal dan seefisien mungkin sesuai kebutuhan bisnis Anda.</p>
+
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 md-mb-30">
@@ -28,7 +32,7 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/1.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">IT Management</a></h3>
+                                <h3 class="title"> <a href="services-single.html">Jaringan</a></h3>
                                 <p class="services-txt"> We always provide people a
                                     complete solution focused of any business.</p>
                             </div>
@@ -42,7 +46,7 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/2.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Cloud Services</a></h3>
+                                <h3 class="title"> <a href="services-single.html">Managed Services</a></h3>
                                 <p class="services-txt"> We always provide people a
                                     complete solution focused of any business.</p>
                             </div>
@@ -56,7 +60,7 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/3.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Data Security</a></h3>
+                                <h3 class="title"> <a href="services-single.html">Internet</a></h3>
                                 <p class="services-txt"> We always provide people a
                                     complete solution focused of any business.</p>
                             </div>
@@ -64,9 +68,6 @@
                     </div>
                 </div>
             </div>
-                <div class="bottom-link text-center mt-43 sm-mt-23">
-                    Increase your business success with technology.<a href="services.html">Let’s get started</a>
-                </div>
         </div>
     </div>
     <!-- Services End -->

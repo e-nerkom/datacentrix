@@ -7,7 +7,7 @@
     <div class="rs-breadcrumbs bg-2">
         <div class="container">
             <div class="content-part text-center">
-                <h1 class="breadcrumbs-title white-color mb-0">Services</h1>
+                <h1 class="breadcrumbs-title white-color mb-0">Solusi</h1>
             </div>
         </div>
     </div>
@@ -16,14 +16,13 @@
     <!-- Services Section Start -->
     <div id="rs-services" class="rs-services style1 modify2 pt-100 pb-84 md-pt-80 md-pb-64">
         <div class="container">
-            <div class="sec-title style2 mb-60 md-mb-50 sm-mb-42">
-                <div class="first-half text-right">
-                    <div class="sub-title primary">Premium Services</div>
-                    <h2 class="title mb-0">Business Services</h2>
-                </div>
-                <div class="last-half">
-                    <p class="desc mb-0 pr-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus, non suscip it arcu. Quisque aliquam posuere tortor aliquam posuere tortor develop database.</p>
-                </div>
+            <div class="sec-title4 text-center mb-50">
+                <span class="sub-title new pb-10">Solusi IT yang aman untuk peningkatan operasional</span>
+                <h3 class="title4" style="line-height:40px">Tingkatkan usaha Anda dan perkenankan kami mengelola ekosistem Teknologi Informasi (TI) Anda</h3>
+                <p class="text-justify mt-4">Data Centrix dan mitra bekerjasama untuk menghadirkan teknologi paling terbaru dan mutakhir kepada pelanggan kami. Kami menyediakan solusi yang ramah pengguna, aman dan komprehensif yang akan menyederhanakan aktifitas operasional sehari-hari dan meningkatkan produktivitas Anda. Kami ingin Anda fokus pada bisnis utama sementara kami mengelola jaringan, layanan TI dan memastikan keamanan terbaik.</p>
+                <p class="text-justify mt-4">Data Centrix menawarkan solusi TI yang spesifik untuk beragam industri dan layanan terkelola tambahan sesuai dengan kebutuhan spesifik yang diperlukan pelanggan. Bersama dengan Thales eSecurity dan Entrust kami mampu memberikan teknologi Perlindungan Data dan Infrastruktur Keamanan Terpadu yang paling canggih saat ini untuk pelanggan kami yang bergerak dalam bisnis keuangan, ecommerce, dan perbankan. Bagi penyedia jasa ritel dan perhotelan, kami dapat merancang, menjalankan, dan mendukung infrastuktur Teknologi Informasi dan Komunikasi (TIK) terpadu yang akan membantu Anda meningkatkan efisiensi serta mengembangkan bisnis Anda. </p>
+                <p class="text-justify mt-4">Bermitralah dengan Data Centrix hari ini untuk memastikan bisnis Anda memiliki efisiensi dan nilai yang maksimal melalui solusil TI yang optimal dan aman.</p>
+
             </div>
             <div class="row gutter-16">
                 <div class="col-lg-4 col-sm-6 mb-16">
@@ -32,7 +31,7 @@
                             <img src="assets/images/services/icons/modify/1.png" alt="">
                         </div>
                         <div class="content-part">
-                            <h5 class="title"><a href="services-single.html">Business Analysis</a></h5>
+                            <h5 class="title"><a href="services-single.html">Jaringan</a></h5>
                             <div class="desc">We always provide people a complete solution focused of any business.</div>
                         </div>
                     </div>
@@ -43,7 +42,7 @@
                             <img src="assets/images/services/icons/modify/2.png" alt="">
                         </div>
                         <div class="content-part">
-                            <h5 class="title"><a href="services-single.html">Reports Analysis</a></h5>
+                            <h5 class="title"><a href="services-single.html">Managed Services</a></h5>
                             <div class="desc">We always provide people a complete solution focused of any business.</div>
                         </div>
                     </div>
@@ -54,7 +53,7 @@
                             <img src="assets/images/services/icons/modify/3.png" alt="">
                         </div>
                         <div class="content-part">
-                            <h5 class="title"><a href="services-single.html">Profit Planning</a></h5>
+                            <h5 class="title"><a href="services-single.html">Internet</a></h5>
                             <div class="desc">We always provide people a complete solution focused of any business.</div>
                         </div>
                     </div>
