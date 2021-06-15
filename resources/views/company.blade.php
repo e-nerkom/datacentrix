@@ -59,7 +59,7 @@
                     <div class="services-item">
                         <div class="iconbox-area">
                             <div class="icon-part">
-                                <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/1.png" alt="Images"></a>
+                                <a href="#"><img class="dance_hover" src="/assets/images/content/icon/1.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
                                 <h3 class="title"> <a href="services-single.html">Jaringan</a></h3>
@@ -73,7 +73,7 @@
                     <div class="services-item">
                         <div class="iconbox-area">
                             <div class="icon-part">
-                                <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/2.png" alt="Images"></a>
+                                <a href="#"><img class="dance_hover" src="/assets/images/content/icon/2.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
                                 <h3 class="title"> <a href="services-single.html">Managed Services</a></h3>
@@ -87,7 +87,7 @@
                     <div class="services-item">
                         <div class="iconbox-area">
                             <div class="icon-part">
-                                <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/3.png" alt="Images"></a>
+                                <a href="#"><img class="dance_hover" src="/assets/images/content/icon/3.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
                                 <h3 class="title"> <a href="services-single.html">Internet</a></h3>

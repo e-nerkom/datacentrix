@@ -47,7 +47,7 @@
                             </div> 
                     </div>
                     <div class="image-part">
-                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/slider/solution/2nd.png" alt="Images">
+                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/2nd.png" alt="Images">
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                             </div> 
                     </div>
                     <div class="image-part">
-                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/slider/solution/1st.png" alt="Images">
+                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/1st.png" alt="Images">
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                     <div class="services-item">
                         <div class="iconbox-area">
                             <div class="icon-part">
-                                <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/1.png" alt="Images"></a>
+                                <a href="#"><img class="dance_hover" src="/assets/images/content/icon/1.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
                                 <h3 class="title"> <a href="services-single.html">Jaringan</a></h3>
@@ -99,7 +99,7 @@
                     <div class="services-item">
                         <div class="iconbox-area">
                             <div class="icon-part">
-                                <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/2.png" alt="Images"></a>
+                                <a href="#"><img class="dance_hover" src="/assets/images/content/icon/2.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
                                 <h3 class="title"> <a href="services-single.html">Managed Services</a></h3>
@@ -113,7 +113,7 @@
                     <div class="services-item">
                         <div class="iconbox-area">
                             <div class="icon-part">
-                                <a href="#"><img class="dance_hover" src="/assets/images/services/style14/iconbox/3.png" alt="Images"></a>
+                                <a href="#"><img class="dance_hover" src="/assets/images/content/icon/3.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
                                 <h3 class="title"> <a href="services-single.html">Internet</a></h3>
@@ -178,7 +178,7 @@
                 <div class="col-lg-6">
                     <div class="about-content">
                         <div class="images-part">
-                            <img src="assets/images/about/solutions/1.jpg" alt="Images">
+                            <img src="assets/images/content/1.jpg" alt="Images">
                         </div>
                         <div class="rs-animations">
                             <div class="spinner dot">
@@ -197,34 +197,34 @@
             <div class="container">
                 <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5"  data-lg-device="5" data-md-device-nav="false" data-md-device-dots="false">
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/1.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/1.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/2.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/2.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/3.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/3.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/4.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/4.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/5.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/5.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/1.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/1.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/2.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/2.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/3.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/3.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/4.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/4.png" alt=""></a>
                     </div>
                     <div class="partner-item">
-                        <a href="https://rstheme.com"><img src="assets/images/partner/gray2/5.png" alt=""></a>
+                        <a href="https://rstheme.com"><img src="assets/images/content/partner/5.png" alt=""></a>
                     </div>
                 </div>
             </div>
