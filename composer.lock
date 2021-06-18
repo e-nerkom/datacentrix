@@ -5231,9 +5231,6 @@
             ],
             "time": "2021-06-04T12:00:00+00:00"
         },
-        {
-            "name": "hamcrest/hamcrest-php",
-            "version": "v2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hamcrest/hamcrest-php.git",
@@ -6317,9 +6314,6 @@
             ],
             "time": "2021-06-05T04:49:07+00:00"
         },
-        {
-            "name": "sebastian/cli-parser",
-            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/cli-parser.git",
@@ -6885,9 +6879,6 @@
             ],
             "time": "2021-06-11T13:31:12+00:00"
         },
-        {
-            "name": "sebastian/lines-of-code",
-            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/lines-of-code.git",
@@ -7228,9 +7219,6 @@
             ],
             "time": "2021-06-15T12:49:02+00:00"
         },
-        {
-            "name": "sebastian/version",
-            "version": "3.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/version.git",
