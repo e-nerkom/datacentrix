@@ -58,78 +58,31 @@
                                         </div>
                                         <nav class="rs-menu pr-65">
                                             <ul class="nav-menu">
-                                                <li class="rs-mega-menu mega-rs current-menu-item"> <a href="#">Home</a></li>
+                                                <li class="rs-mega-menu mega-rs {{ Request::is('/') ? 'current-menu-item' : '' }}"> <a href="/">Home</a></li>
 
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Perusahaan</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="about.html">About Us</a></li>
-                                                        <li class="menu-item-has-children">
-                                                            <a href="#">Services</a>
-                                                            <ul class="sub-menu">
-                                                                <li><a href="services.html">Services 1</a> </li>
-                                                                <li class="last-item"><a href="services2.html">Services 2</a> </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li><a href="services-single.html">Services Single</a></li>
-                                                        <li class="menu-item-has-children">
-                                                            <a href="#">Our Peoples</a>
-                                                            <ul class="sub-menu">
-                                                                <li><a href="team.html">Team Grid Style1</a> </li>
-                                                                <li class="last-item"><a href="team2.html">Team Grid Style2</a> </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li><a href="price-tables.html">Price Tables</a></li>
-                                                        <li class="last-item"><a href="faq.html">Faq</a></li>
-                                                    </ul>
+                                                <li class="{{ Request::is('company') ? 'current-menu-item' : '' }}">
+                                                    <a href="/company">Perusahaan</a>
                                                 </li>
 
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Produk</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="portfolio.html">Portfolio One</a></li>
-                                                        <li><a href="portfolio2.html">Portfolio Two</a></li>
-                                                        <li><a href="portfolio3.html">Portfolio Three</a></li>
-                                                        <li><a href="portfolio4.html">Portfolio Four</a></li>
-                                                        <li><a href="portfolio5.html">Portfolio Five</a></li>
-                                                        <li><a href="portfolio6.html">Portfolio Six</a></li>
-                                                        <li class="last-item menu-item-has-children">
-                                                            <a href="#">Portfolio Single</a>
-                                                            <ul class="sub-menu">
-                                                                <li><a href="portfolio-standard.html">Standard Style</a> </li>
-                                                                <li><a href="portfolio-slider.html">Slider Style</a> </li>
-                                                                <li class="last-item"><a href="portfolio-gallery.html">Gallery Style</a> </li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
+                                                <li class="{{ Request::is('product') ? 'current-menu-item' : '' }}">
+                                                    <a href="/product">Produk</a>
                                                 </li>
 
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Layanan</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="blog.html">Blog</a></li>
-                                                        <li class="last-item"><a href="blog-single.html">Blog Single</a></li>
-                                                    </ul>
+                                                <li class="{{ Request::is('services') ? 'current-menu-item' : '' }}">
+                                                    <a href="/services">Layanan</a>
                                                 </li>
 
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Solusi</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="shop.html">Shop</a></li>
-                                                        <li><a href="shop-single.html">Shop Single</a></li>
-                                                        <li><a href="cart.html">Cart</a></li>
-                                                        <li><a href="checkout.html">Checkout</a></li>
-                                                        <li class="last-item"><a href="account.html">My Account</a></li>
-                                                    </ul>
+                                                <li class="{{ Request::is('solutions') ? 'current-menu-item' : '' }}">
+                                                    <a href="/solutions">Solusi</a>
                                                 </li>
 
-                                                <li class=""><a href="#">Kontak</a></li>
+                                                <li class="{{ Request::is('contact') ? 'current-menu-item' : '' }}"><a href="/contact">Kontak</a></li>
                                             </ul> <!-- //.nav-menu -->
                                         </nav>
                                     </div> <!-- //.main-menu -->
                                     <div class="expand-btn-inner">
                                         <ul>
-                                            <li class="search-parent">
+                                            <li class="search-parent d-block">
                                                 <a class="hidden-xs rs-search" data-target=".search-modal" data-toggle="modal" href="#">
                                                     <i class="flaticon-search"></i>
                                                 </a>

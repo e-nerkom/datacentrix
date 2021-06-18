@@ -6385,7 +6385,8 @@ body .modal-backdrop {
   left: unset;
 }
 .rs-slider.slider13 {
-  background: url(/assets/images/slider/solution/slide-bg.jpg);
+  /* background: url(/assets/images/slider/solution/slide-bg.jpg); */
+  background: url(/assets/images/content/banner-2.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
