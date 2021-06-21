@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SuperAdminController;
+use App\Http\Controllers\WelcomeAdminController;
 
 /*
 |--------------------------------------------------------------------------
@@ -39,8 +40,11 @@ Route::get('/contact', function () {
 });
 
 Route::prefix('admin')->group(function() {
-    Route::get('/login', [SuperAdminController::class, 'getLogin']);
+    Route::get('/login', [SuperAdminController::class, 'getLogin'])->name('login');
     Route::post('/login', [SuperAdminController::class, 'postLogin']);
     Route::get('/register', [SuperAdminController::class, 'getRegister']);
     Route::post('/register', [SuperAdminController::class, 'postRegister']);
+    Route::get('/logout', [SuperAdminController::class, 'logout']);
+
+    Route::get('/welcome', [WelcomeAdminController::class, 'index']);
 });
