@@ -42,7 +42,7 @@
                     <li class="nav-item dropdown nav--user online">
                         <a href="#" class="nav-link" data-toggle="dropdown">
                             <img src="/admin/assets/img/avatars/01_80x80.png" alt="" class="rounded-circle">
-                            <span>Henry Foster</span>
+                            <span>{{ Auth::user()->name }}</span>
                             <i class="fa fa-angle-down"></i>
                         </a>
 
