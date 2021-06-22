@@ -17,8 +17,8 @@
                         <div class="row">
                             <div class="col-lg-3">
                                 <div class="logo-area">
-                                    <a class="dark" href="/"><img src="assets/images/logo-dark.png" alt="logo"></a>
-                                    <a class="light" href="/"><img src="assets/images/logo.png" alt="logo"></a>
+                                    <a class="dark" href="/"><img src="/assets/images/logo-dark.png" alt="logo"></a>
+                                    <a class="light" href="/"><img src="/assets/images/logo.png" alt="logo"></a>
                                 </div>
                             </div>
                             <div class="col-lg-9 text-right">
@@ -40,9 +40,9 @@
                                                                 <div class="single-megamenu" style="width:auto">
                                                                     <ul class="sub-menu">
                                                                         <li class="menu-title">nShield</li>
-                                                                        <li><a href="#">nShield HSMs</a> </li>
-                                                                        <li><a href="#">nShield Software</a> </li>
-                                                                        <li><a href="#">Management and Monitoring</a> </li>                                                                        
+                                                                        <li><a href="/product/1">nShield HSMs</a> </li>
+                                                                        <li><a href="/product/1">nShield Software</a> </li>
+                                                                        <li><a href="/product/1">Management and Monitoring</a> </li>                                                                        
                                                                     </ul>
                                                                 </div>                                                                                                                               
                                                              
@@ -93,7 +93,7 @@
                         </span>
                     </div>
                     <div class="canvas-logo">
-                        <a href="index.html"><img src="assets/images/logo-dark.png" alt="logo"></a>
+                        <a href="index.html"><img src="/assets/images/logo-dark.png" alt="logo"></a>
                     </div>
                     <div class="offcanvas-text">
                         <p>Consectetur adipiscing elit. Duis at dictum risus, non suscip it arcu. Quisque aliquam posuere tortor aliquam posuere tortor develop database.</p>
