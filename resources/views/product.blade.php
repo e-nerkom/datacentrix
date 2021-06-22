@@ -7,7 +7,7 @@
     <div class="rs-breadcrumbs bg-4">
         <div class="container">
             <div class="content-part text-center">
-                <h1 class="breadcrumbs-title white-color mb-0">About</h1>
+                <h1 class="breadcrumbs-title white-color mb-0">Product</h1>
             </div>
         </div>
     </div>

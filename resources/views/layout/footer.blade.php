@@ -41,19 +41,13 @@
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <div class="desc">
-                                        <a href="tel:+8801739753105">(+880)173-9753105</a>
+                                        <a href="tel:021225800285">(021) 225 800285</a>
                                     </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <div class="desc">
-                                        <a href="mailto:support@rstheme.com">support@rstheme.com</a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="flaticon-clock"></i>
-                                    <div class="desc">
-                                        10:00 - 17:00
+                                        <a href="mailto:info@datacentrix.co.id">info@datacentrix.co.id</a>
                                     </div>
                                 </li>
                             </ul>
