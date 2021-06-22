@@ -28,15 +28,21 @@
                 </div>
                 <div class="col-lg-6 pl-50 md-pl-15 pr-50 lg-pr-15">
                     <div class="sec-title mb-25">
-                        <div class="sub-title primary">Perusahaan</div>
+                        <div class="sub-title primary">Company</div>
                         <!-- <h2 class="title mb-18">We Provides Best Advice For Your Business</h2> -->
-                        <h4 class="title">Penyedia jasa Teknologi Informasi dan Komunikasi (TIK) terkemuka dengan kemitraan strategis di Indonesia dan dunia</h4>
+                        <h3 class="title" style="line-height:38px">Data Centrix Nusantara is a Jakarta Based technology company specializing in Cybersecurity and IT Solutions</h3>
                     </div>
-                    <div class="desc">
-                    Berdiri tahun 1993 sebagai penyedia Telecommunication Service Management (TSM) di kawasan Sudirman Central Business District (SCBD) berdasarkan operasi gabungan dengan PT Telkom Indonesia, Arthatel kini telah berkembang menjadi penyedia beragam layanan dan solusi TIK.
+                    <div class="desc">                    
+                    As a data-driven company, we continuously redefine and reinvent our sustainable technology solutions to meet future challenges and necessities.                            
                     </div>
-                    <div class="desc mt-2">
-                    Kemitraan utama kami dengan para penyedia layanan telekom internasional di Singapura, Tokyo, dan Hong Kong memastikan konektivitas yang aman, andal, dan cepat. Dengan jaringan fiber optic dan Point of Presence (PoP) yang unggul di Indonesia, Arthatel memastikan para pelanggan dapat terhubung secara aman dengan jaringan lokal mereka dan seluruh dunia.
+                    <div class="desc mt-2">                    
+                    Customers’ trust and satisfaction are our priorities. With substantial knowledge and vast experience in the industry, Rudextech will always anchor our value in ensuring the best quality in everything we offer.                            
+                    </div>
+                    <div class="desc mt-2">                    
+                    Data Centrix Nusantara is not just another tech company.                          
+                    </div>
+                    <div class="desc mt-2">                    
+                    Data Centrix Nusantara is your reliable and trusted partner.
                     </div>
                     <!-- <div class="btn-part">
                         <a class="readon" href="#">Discover More</a>

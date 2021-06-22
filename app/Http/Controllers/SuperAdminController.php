@@ -27,7 +27,7 @@ class SuperAdminController extends Controller
         $user = Auth::attempt($credentials);
         if ($user) {
             $user = Auth::user();
-            return redirect()->intended('/dashboard');
+            return redirect()->intended('/admin/welcome');
         } else {
             return redirect('/admin/login')->with('err', 'Email atau Password yang anda masukan tidak cocok.');
         }
@@ -65,5 +65,11 @@ class SuperAdminController extends Controller
         ]);
 
         return redirect('/admin/login')->with('message', 'Pendaftaran berhasil. Silahkan login dengan akun anda');
+    }
+
+    public function logout()
+    {
+        Auth::logout();
+        return redirect('/admin/login');
     }
 }
