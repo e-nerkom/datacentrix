@@ -32,7 +32,7 @@
                                         <nav class="rs-menu pr-65">
                                             <ul class="nav-menu">
 
-                                                <li class="rs-mega-menu mega-rs menu-item-has-children current-menu-item"> <a href="#">Product</a>
+                                                <li class="rs-mega-menu mega-rs menu-item-has-children {{ Request::is('product') ? 'current-menu-item' : '' }}"> <a href="#">Product</a>
                                                     <ul class="mega-menu" style="min-width:auto;right:0"> 
                                                         <li class="mega-menu-container">
                                                             <div class="mega-menu-innner">
