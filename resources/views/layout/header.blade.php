@@ -17,8 +17,8 @@
                         <div class="row">
                             <div class="col-lg-3">
                                 <div class="logo-area">
-                                    <a class="dark" href="index.html"><img src="assets/images/logo-dark.png" alt="logo"></a>
-                                    <a class="light" href="index.html"><img src="assets/images/logo.png" alt="logo"></a>
+                                    <a class="dark" href="/"><img src="assets/images/logo-dark.png" alt="logo"></a>
+                                    <a class="light" href="/"><img src="assets/images/logo.png" alt="logo"></a>
                                 </div>
                             </div>
                             <div class="col-lg-9 text-right">
