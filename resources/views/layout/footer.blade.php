@@ -1,5 +1,5 @@
 <!-- Footer Start -->
-<footer id="rs-footer" class="rs-footer style4">
+        <footer id="rs-footer" class="rs-footer style4">
             <div class="container">
                 <div class="footer-newsletter">
                     <div class="row y-middle">
@@ -28,11 +28,15 @@
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 col-sm-12 md-mb-32 footer-widget">
-                            <h4 class="widget-title">Contact Info</h4>
+                            <h4 class="widget-title">Company Address</h4>
                             <ul class="address-widget pr-40">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc">374 William S Canning Blvd, Fall River MA 2721, USA</div>
+                                    <div class="desc" style="padding-left:45px;">
+                                        Palma Tower, 20th Floor<br>
+                                        Jl. R.A Kartini III-S Kav. 06<br>
+                                        Jakarta Selatan 12310
+                                    </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>

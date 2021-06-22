@@ -3780,9 +3780,15 @@ input[type=range]::-ms-fill-upper {
   display: inherit;
 }
 .full-width-header .rs-header .menu-area .rs-menu-area {
+  /* display: flex;
+  align-items: center;
+  justify-content: space-between; */
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: flex-end;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li {
   display: inline-block;
