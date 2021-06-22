@@ -7,7 +7,7 @@
     <div class="rs-breadcrumbs bg-1">
         <div class="container">
             <div class="content-part text-center">
-                <h1 class="breadcrumbs-title white-color mb-0">Perusahaan</h1>
+                <h1 class="breadcrumbs-title white-color mb-0">Company</h1>
             </div>
         </div>
     </div>
@@ -20,29 +20,25 @@
                 <div class="col-lg-6 md-mb-95">
                     <div class="image-part">
                         <img src="assets/images/about/inner/left-img.jpg" alt="">
-                        <div class="author-info">
-                            <h3 class="name">Egne Novanda</h3>
-                            <span class="designation">CEO & Founder</span>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-6 pl-50 md-pl-15 pr-50 lg-pr-15">
                     <div class="sec-title mb-25">
                         <div class="sub-title primary">Company</div>
                         <!-- <h2 class="title mb-18">We Provides Best Advice For Your Business</h2> -->
-                        <h3 class="title" style="line-height:38px">Data Centrix Nusantara is a Jakarta Based technology company specializing in Cybersecurity and IT Solutions</h3>
+                        <h3 class="title" style="line-height:38px;letter-spacing:1px">Data Centrix Nusantara is a Jakarta Based technology company specializing in Cybersecurity and IT Solutions</h3>
                     </div>
-                    <div class="desc">                    
+                    <div class="desc text-justify">                    
                     As a data-driven company, we continuously redefine and reinvent our sustainable technology solutions to meet future challenges and necessities.                            
                     </div>
-                    <div class="desc mt-2">                    
+                    <div class="desc text-justify mt-2">                    
                     Customers’ trust and satisfaction are our priorities. With substantial knowledge and vast experience in the industry, Rudextech will always anchor our value in ensuring the best quality in everything we offer.                            
                     </div>
-                    <div class="desc mt-2">                    
-                    Data Centrix Nusantara is not just another tech company.                          
+                    <div class="desc text-justify mt-2">                    
+                    Data Centrix is not just another tech company.                          
                     </div>
-                    <div class="desc mt-2">                    
-                    Data Centrix Nusantara is your reliable and trusted partner.
+                    <div class="desc text-justify mt-2">                    
+                    Data Centrix is your reliable and trusted partner.
                     </div>
                     <!-- <div class="btn-part">
                         <a class="readon" href="#">Discover More</a>
