@@ -8,33 +8,6 @@
       
        	<!--Full width header Start-->
         <div class="full-width-header header-style2">
-            <!-- Toolbar Start -->
-            <div class="toolbar-area hidden-md">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <div class="toolbar-contact">
-                                <ul>
-                                    <li><i class="flaticon-email"></i><a href="mailto:info@yourwebsite.com">support@rstheme.com</a></li>
-                                    <li><i class="flaticon-call"></i><a href="tel:+123456789">(+123) 456789</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-7">
-                            <div class="toolbar-sl-share">
-                                <ul>
-                                    <li class="opening"> <i class="flaticon-clock"></i> Mon - Fri: 9:00 am - 06.00pm / Closed on Weekends</li>
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Toolbar End -->
             
             <!--Header Start-->
             <header id="rs-header" class="rs-header">
@@ -58,25 +31,29 @@
                                         </div>
                                         <nav class="rs-menu pr-65">
                                             <ul class="nav-menu">
-                                                <li class="rs-mega-menu mega-rs {{ Request::is('/') ? 'current-menu-item' : '' }}"> <a href="/">Home</a></li>
-
-                                                <li class="{{ Request::is('company') ? 'current-menu-item' : '' }}">
-                                                    <a href="/company">Perusahaan</a>
-                                                </li>
+                                                <!-- <li class="rs-mega-menu mega-rs {{ Request::is('/') ? 'current-menu-item' : '' }}">
+                                                    <a href="/">Home</a>
+                                                </li> -->
 
                                                 <li class="{{ Request::is('product') ? 'current-menu-item' : '' }}">
-                                                    <a href="/product">Produk</a>
+                                                    <a href="/product">Product</a>
                                                 </li>
 
-                                                <li class="{{ Request::is('services') ? 'current-menu-item' : '' }}">
-                                                    <a href="/services">Layanan</a>
+                                                <li class="{{ Request::is('company') ? 'current-menu-item' : '' }}">
+                                                    <a href="/company">Company</a>
                                                 </li>
 
-                                                <li class="{{ Request::is('solutions') ? 'current-menu-item' : '' }}">
-                                                    <a href="/solutions">Solusi</a>
-                                                </li>
+                                                <!-- <li class="{{ Request::is('services') ? 'current-menu-item' : '' }}">
+                                                    <a href="/services">Services</a>
+                                                </li> -->
 
-                                                <li class="{{ Request::is('contact') ? 'current-menu-item' : '' }}"><a href="/contact">Kontak</a></li>
+                                                <!-- <li class="{{ Request::is('solutions') ? 'current-menu-item' : '' }}">
+                                                    <a href="/solutions">Solutions</a>
+                                                </li> -->
+
+                                                <li class="{{ Request::is('contact') ? 'current-menu-item' : '' }}">
+                                                    <a href="/contact">Contact</a>
+                                                </li>
                                             </ul> <!-- //.nav-menu -->
                                         </nav>
                                     </div> <!-- //.main-menu -->
