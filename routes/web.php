@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SuperAdminController;
 use App\Http\Controllers\WelcomeAdminController;
+use App\Http\Controllers\ProductController;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,10 +24,6 @@ Route::get('/company', function () {
     return view('company');
 });
 
-Route::get('/product', function () {
-    return view('product');
-});
-
 Route::get('/services', function () {
     return view('services');
 });
@@ -39,13 +36,8 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/cache-clear', function() {
-    $exitCode = Artisan::call('cache:clear');
-});
-
-Route::get('/view-clear', function() {
-    $exitCode = Artisan::call('view:clear');
-});
+Route::get('/product', [ProductController::class, 'index']);
+Route::get('/product/{product_id}', [ProductController::class, 'productDetail']);
 
 Route::prefix('admin')->group(function() {
     Route::get('/login', [SuperAdminController::class, 'getLogin'])->name('login');

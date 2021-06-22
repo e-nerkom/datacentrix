@@ -19,7 +19,7 @@
                         <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-39">
                             <div class="about-widget pr-15">
                                 <div class="logo-part">
-                                    <a href="index.html"><img src="assets/images/logo.png" alt="Footer Logo"></a>
+                                    <a href="index.html"><img src="/assets/images/logo.png" alt="Footer Logo"></a>
                                 </div>
                                 <p class="desc">We denounce with righteous indignation in and dislike men who are so beguiled and to demo realized by the charms of pleasure moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound.</p>
                                 <div class="btn-part">
@@ -57,7 +57,7 @@
                             <div class="footer-post">
                                 <div class="post-wrap mb-15">
                                     <div class="post-img">
-                                        <a href="blog-single.html"><img src="assets/images/blog/small/1.jpg" alt=""></a>
+                                        <a href="blog-single.html"><img src="/assets/images/blog/small/1.jpg" alt=""></a>
                                     </div>
                                     <div class="post-desc">
                                         <a href="blog-single.html">Covid-19 threatens the next generation of smartphones</a>
@@ -69,7 +69,7 @@
                                 </div>
                                 <div class="post-wrap mb-15">
                                     <div class="post-img">
-                                        <a href="blog-single.html"><img src="assets/images/blog/small/2.jpg" alt=""></a>
+                                        <a href="blog-single.html"><img src="/assets/images/blog/small/2.jpg" alt=""></a>
                                     </div>
                                     <div class="post-desc">
                                         <a href="blog-single.html">Soundtrack filma Lady Exclusive Music</a>
@@ -81,7 +81,7 @@
                                 </div>
                                 <div class="post-wrap">
                                     <div class="post-img">
-                                        <a href="blog-single.html"><img src="assets/images/blog/small/3.jpg" alt=""></a>
+                                        <a href="blog-single.html"><img src="/assets/images/blog/small/3.jpg" alt=""></a>
                                     </div>
                                     <div class="post-desc">
                                         <a href="blog-single.html">Winged moved stars, fruit creature seed night.</a>
