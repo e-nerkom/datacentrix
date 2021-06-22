@@ -31,25 +31,29 @@
                                         </div>
                                         <nav class="rs-menu pr-65">
                                             <ul class="nav-menu">
-                                                <!-- <li class="rs-mega-menu mega-rs {{ Request::is('/') ? 'current-menu-item' : '' }}">
-                                                    <a href="/">Home</a>
-                                                </li> -->
 
-                                                <li class="{{ Request::is('product') ? 'current-menu-item' : '' }}">
-                                                    <a href="/product">Product</a>
+                                                <li class="rs-mega-menu mega-rs menu-item-has-children {{ Request::is('product') ? 'current-menu-item' : '' }}"> <a href="#">Product</a>
+                                                    <ul class="mega-menu" style="min-width:auto;right:0"> 
+                                                        <li class="mega-menu-container">
+                                                            <div class="mega-menu-innner">
+
+                                                                <div class="single-megamenu" style="width:auto">
+                                                                    <ul class="sub-menu">
+                                                                        <li class="menu-title">nShield</li>
+                                                                        <li><a href="#">nShield HSMs</a> </li>
+                                                                        <li><a href="#">nShield Software</a> </li>
+                                                                        <li><a href="#">Management and Monitoring</a> </li>                                                                        
+                                                                    </ul>
+                                                                </div>                                                                                                                               
+                                                             
+                                                            </div>
+                                                        </li>
+                                                    </ul> <!-- //.mega-menu --> 
                                                 </li>
 
                                                 <li class="{{ Request::is('company') ? 'current-menu-item' : '' }}">
                                                     <a href="/company">Company</a>
                                                 </li>
-
-                                                <!-- <li class="{{ Request::is('services') ? 'current-menu-item' : '' }}">
-                                                    <a href="/services">Services</a>
-                                                </li> -->
-
-                                                <!-- <li class="{{ Request::is('solutions') ? 'current-menu-item' : '' }}">
-                                                    <a href="/solutions">Solutions</a>
-                                                </li> -->
 
                                                 <li class="{{ Request::is('contact') ? 'current-menu-item' : '' }}">
                                                     <a href="/contact">Contact</a>

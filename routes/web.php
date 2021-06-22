@@ -39,6 +39,14 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/cache-clear', function() {
+    $exitCode = Artisan::call('cache:clear');
+});
+
+Route::get('/view-clear', function() {
+    $exitCode = Artisan::call('view:clear');
+});
+
 Route::prefix('admin')->group(function() {
     Route::get('/login', [SuperAdminController::class, 'getLogin'])->name('login');
     Route::post('/login', [SuperAdminController::class, 'postLogin']);

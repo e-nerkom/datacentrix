@@ -7,7 +7,7 @@
     <div class="rs-breadcrumbs bg-4">
         <div class="container">
             <div class="content-part text-center">
-                <h1 class="breadcrumbs-title white-color mb-0">About</h1>
+                <h1 class="breadcrumbs-title white-color mb-0">Product</h1>
             </div>
         </div>
     </div>
@@ -32,7 +32,7 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/1.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Jaringan</a></h3>
+                                <h3 class="title"> <a href="services-single.html">nShield HSMs</a></h3>
                                 <p class="services-txt"> We always provide people a
                                     complete solution focused of any business.</p>
                             </div>
@@ -46,7 +46,7 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/2.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Managed Services</a></h3>
+                                <h3 class="title"> <a href="services-single.html">nShield Software</a></h3>
                                 <p class="services-txt"> We always provide people a
                                     complete solution focused of any business.</p>
                             </div>
@@ -60,7 +60,7 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/3.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Internet</a></h3>
+                                <h3 class="title"> <a href="services-single.html">Management and Monitoring</a></h3>
                                 <p class="services-txt"> We always provide people a
                                     complete solution focused of any business.</p>
                             </div>
@@ -91,11 +91,8 @@
                             <div class="col-md-6">
                                 <input type="email" name="email" placeholder="E-mail" required="">
                             </div>
-                            <div class="col-md-6">
-                                <input type="text" name="phone" placeholder="Phone Number" required="">
-                            </div>
-                            <div class="col-md-6">
-                                <input type="text" name="website" placeholder="Your Website" required="">
+                            <div class="col-md-12">
+                                <input type="text" name="subject" placeholder="Subject" required="">
                             </div>
                             <div class="col-md-12">
                                 <textarea name="message" placeholder="Your Message Here" required=""></textarea>
