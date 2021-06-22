@@ -56,9 +56,9 @@
                 <div class="container">
                     <div class="slider-content">
                         <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
-                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">Top-Notchsoftware</h1>
+                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">TRANSCONFIRM</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">Development Company</span>
+                            <span class="sl-sub-title2">MOBILE TRANSACTION AUTHENTICATION SIGNATURE</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
                             <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
@@ -74,7 +74,7 @@
                 <div class="container">
                     <div class="slider-content">
                         <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
-                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">Top-Notchsoftware</h1>
+                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">CODESAFE</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
                             <span class="sl-sub-title2">Development Company</span>
                             </div> 
@@ -83,7 +83,7 @@
                             </div> 
                     </div>
                     <div class="image-part">
-                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/1st.png" alt="Images">
+                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/3rd.png" alt="Images">
                     </div>
                 </div>
             </div>
