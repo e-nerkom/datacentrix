@@ -1,6 +1,55 @@
 @extends('layout/template')
 @section('content')
 
+<style>
+
+nav > .nav.nav-tabs{
+
+border: none;
+  color:#fff;
+  background:#272e38;
+  border-radius:0;
+
+}
+nav > div a.nav-item.nav-link,
+nav > div a.nav-item.nav-link.active
+{
+border: none;
+  padding: 18px 25px;
+  color:#fff;
+  background:#2d7a9e;
+  border-radius:0;
+}
+
+nav > div a.nav-item.nav-link.active:after
+{
+content: "";
+position: relative;
+bottom: -60px;
+left: -10%;
+border: 15px solid transparent;
+border-top-color: #6ec1e6 ;
+}
+.tab-content{
+background: #f5fbfd;
+  line-height: 25px;
+  border: 1px solid #ddd;
+  border-top:5px solid #6ec1e6;
+  border-bottom:none;
+  padding:30px 25px 100px;
+}
+
+nav > div a.nav-item.nav-link:hover,
+nav > div a.nav-item.nav-link:focus
+{
+border: none;
+  background: #6ec1e6;
+  color:#fff;
+  border-radius:0;
+  transition:background 0.20s linear;
+}
+</style>
+
 <!-- Main content Start -->
 <div class="main-content">
     <!-- Breadcrumbs Section Start -->
@@ -114,79 +163,33 @@
         </div>
     </div>
 
-    <!-- Shop Single Page Start Here -->
-    <div class="rs-shop single-product shop-rp pt-100 pb-100 md-pt-80 md-pb-30">
-        <div class="container">
-
-            <div class="tab-area">
-                <ul class="nav nav-tabs">
-                    <li><a class="active" href="#one" data-toggle="tab">Tech Specs</a></li>
-                    <li><a href="#two" data-toggle="tab">Options and Accessories</a></li>
-                    <li><a href="#three" data-toggle="tab">Related Resources</a></li>
-                </ul>
-
-                <div class="tab-content">
-                    <div class="tab-pane active" id="one">
-                        <p class="dsc-p">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,</p>
-                    </div><!-- #one -->
-
-                    <div class="tab-pane" id="two">
-                        <h4 class="tab-title">Additional information</h4>
-                        <table>
-                            <tbody class="table-box">
-                                <tr>
-                                    <th>color</th>
-                                    <td>red, blue</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div><!-- #two -->
-
-                    <div class="tab-pane" id="three">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-8">
-                                <div class="reviews-grid">
-                                    <div class="top-area">
-                                        <p>There are no reviews yet.</p>
-                                        <h4 class="mb-0">Be the first to review “Air Freshener Electric”</h4>
-                                    </div>
-
-                                    <form class="comment-form" id="commentform">
-                                        <p class="comment-notes">Your email address will not be published. Required fields are marked *</p>
-
-                                        <div class="placeholder-cntrl">
-                                            <label>Name *</label>
-                                            <input type="text" name="name" size="30" required>
-                                        </div>
-                                        <div class="placeholder-cntrl">
-                                            <label>Email *</label>
-                                            <input type="Email" name="email" size="30" required>
-                                        </div>
-                                        <div class="ratings mt-30">Your rating
-                                            <ul>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star-o"></i></li>
-                                            </ul>
-                                        </div>
-                                        <div class="placeholder-cntrl">
-                                            <label>Your review *</label>
-                                            <textarea required></textarea>
-                                        </div>
-                                        <button class="readon" type="submit">submit</button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- #three -->
+    <div class="rs-shop single-product shop-rp pt-100 md-pt-80 md-pb-30">
+        <div class="col-xs-12">
+            <nav>
+                <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                    <a class="nav-item nav-link active title" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Tech Specs</a>
+                    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Options and Accessories</a>
+                    <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Related Resources</a>
                 </div>
-            </div><!-- .tab-area -->
-
+            </nav>
+        
+            <div class="tab-content pb-100 px-3 px-sm-0" id="nav-tabContent">
             
+                <div class="tab-pane fade show active container" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                </div>
+                <div class="tab-pane fade container" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                </div>
+                <div class="tab-pane fade container" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                </div>            
+            </div>            
+        
         </div>
+        
     </div>
+    
 
     
 </div> 
