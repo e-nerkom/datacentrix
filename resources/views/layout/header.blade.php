@@ -44,8 +44,7 @@
                                                                         <li><a href="/product/2">nShield Software</a> </li>
                                                                         <li><a href="/product/3">Management and Monitoring</a> </li>                                                                        
                                                                     </ul>
-                                                                </div>                                                                                                                               
-                                                             
+                                                                </div>                                                                                        
                                                             </div>
                                                         </li>
                                                     </ul> <!-- //.mega-menu --> 
