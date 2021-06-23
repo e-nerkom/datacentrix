@@ -78,9 +78,9 @@
                         <h2 class="title title2 pb-25">Great HSM oversight with one window</h2>
                         <p class="description text-justify pb-10">nShield Monitor is a comprehensive HSM monitoring platform that enables operations teams to gain 24x7 visibility into the status of all their nShield HSMs, including those residing across distributed data centers. With this solution, security teams can efficiently inspect HSMs and find out immediately if any potential security, configuration or utilization issue may compromise their mission-critical infrastructure.</p>
                         <p class="description text-justify pb-30"></p>
-                        <ul class="btn-part">
+                        <!-- <ul class="btn-part">
                             <li><a class="readon2 get-new" href="#">Download Datasheet</a></li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col-lg-6 md-mb-50">
@@ -93,33 +93,6 @@
 
     </div>
     <!-- About Section End -->
-
-    <!-- Services Start -->
-    <div class="rs-services style20 bg29 pt-100 pb-50 md-pt-70 md-pb-70" style="padding-bottom:100px">
-        <div class="container">
-            <div class="sec-title4 text-center mb-50">
-                <!-- <span class="sub-title new pb-10">MANAGED IT SERVICES</span> -->
-                <h2 class="title title3">Remote configuration eliminates costly trips to the data center</h2>
-                <p class="text-justify mt-4">The latest nShield Connect XC models offer an optional serial port that
-                    allows enterprises to eliminate costly repeat trips to the data center. Remote Configuration
-                    capabilities include:</p>
-
-                <ul class="listing-style text-left regular2 pl-10 sm-pl-0">
-                    <li>Initiating and changing an HSM’s network settings, e.g. IP address</li>
-                    <li>Supporting provider/tenant deployment models where the nShield HSM appliance can be easily
-                        configured by the provider before passing control of the HSM to a tenant. Separation of roles
-                        ensures the cryptographic key material is not exposed to the provider.</li>
-                    <li>Purging key material and decommissioning the nShield HSM appliance at the end of a usage cycle
-                        in preparation for its next deployment.</li>
-                </ul>
-
-                <p class="text-justify mt-4">Technicians simply need to rack and cable the nShield HSM appliance and
-                    connect a serial concentrator in the data center to prepare the nShield Connect XC for full remote
-                    configuration and administration. This reduces the need for trained resources in the data center and
-                    provides customers more efficiency and control over their HSMs.</p>
-            </div>
-        </div>
-    </div>
 
     <div class="rs-services style19 pt-100 md-pt-70 md-pb-70">
         <div class="container">
@@ -135,10 +108,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="services-single.html">Powerful Architecture</a></h3>
+                                    <h3 class="title"><a href="#">Operation Costs Reduction</a></h3>
                                 </div>
-                                <p class="services-txt">Build and grow your HSM estate using Security World, Entrust's
-                                    unified ecosystem that delivers scalability, seamless failover, and load balancing.
+                                <p class="services-txt">Eliminate the costs associated with physically accessing HSMs to retrieve important data.
                                 </p>
                             </div>
                         </div>
@@ -155,10 +127,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="services-single.html">Faster Data Processing</a></h3>
+                                    <h3 class="title"><a href="#">Utilization Optimization</a></h3>
                                 </div>
-                                <p class="services-txt">Get some of the highest cryptographic transaction rates in the
-                                    industry. Ideal for environments where throughput is critical.</p>
+                                <p class="services-txt">Find trends in HSM performance and capacity to assist in optimizing deployment architecture.</p>
                             </div>
                         </div>
                     </div>
@@ -174,11 +145,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="services-single.html">Protection of sensitive business
-                                            and application logic</a></h3>
+                                    <h3 class="title"><a href="#">Increased Responsiveness</a></h3>
                                 </div>
-                                <p class="services-txt">Execute code within nShield boundaries, protecting your
-                                    applications and the data they process.</p>
+                                <p class="services-txt">Equip administrators with the timely, targeted insights they need to proactively take corrective actions.</p>
                             </div>
                         </div>
                     </div>
@@ -187,7 +156,50 @@
         </div>
     </div>
 
-    <div class="rs-shop single-product shop-rp pt-100 md-pt-80 md-pb-30">
+    <!-- Services Start -->
+    <div class="rs-services style20 bg29 pt-100 pb-50 md-pt-70 md-pb-70" style="padding-bottom:100px">
+        <div class="container">
+            <div class="sec-title4 text-center mb-50">
+                <!-- <span class="sub-title new pb-10">MANAGED IT SERVICES</span> -->
+                <h2 class="title text-left">Tech Specs</h2>
+                <p class="font-weight-bold text-left mb-1 mt-30">Central Monitoring Capabilities</p>
+                <p class="text-justify">nShield Monitor refreshes utilization statistics for all HSMs every minute. The solution generates alerts based on thresholds you define. Choose from email, SNMP, syslog, or web interface as the delivery channel for any alerts. You define specific time periods for in-depth analysis, including last hour, 24 hours, 7 days, 30 days, or custom intervals. nShield Monitor reports on a range of attributes including:</p>
+                <ul class="listing-style text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>Operational status</li>
+                    <li>Physical security and any tamper attempts</li>
+                    <li>Alarms and alerts</li>
+                    <li>Utilization and capacity</li>
+                    <li>Configuration changes with user tracking</li>
+                </ul>
+
+                <p class="font-weight-bold text-left mb-1">HSM Compatibility</p>
+                <ul class="listing-style text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>nShield Edge, Solo, Solo+, Connect and Connect+ with Security World Software v11.72 and higher</li>
+                    <li>nShield Solo XC and Connect XC with Security World Software v12.40 and higher</li>
+                </ul>
+
+                <p class="font-weight-bold text-left mb-1">Role-based Access Control</p>
+                <p class="text-justify mb-1">nShield supports three distinct user roles to enhance security and establish clear separation of configuration and administration duties. These three roles are:</p>
+                <ul class="listing-style text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>Administrator, manages deployment</li>
+                    <li>Group Manager, controls monitoring of HSMs and groups of HSMs</li>
+                    <li>Auditor, views data and reports</li>
+                </ul>
+
+                <p class="font-weight-bold text-left mb-1">Virtual Appliance Minimum Specification</p>
+                <ul class="listing-style text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>2 CPUs with 2 cores each</li>
+                    <li>8 GB RAM</li>
+                    <li>Thin provisioned hard drives</li>
+                    <li>Compatible with ESXi 5.1 and later (VM Version 9)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <!-- <div class="rs-shop single-product shop-rp pt-100 md-pt-80 md-pb-30">
         <div class="col-xs-12">
             <nav>
                 <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
@@ -264,7 +276,7 @@
 
         </div>
 
-    </div>
+    </div> -->
 
 
 

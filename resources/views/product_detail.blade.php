@@ -128,9 +128,9 @@
                         <p class="description text-justify pb-30">With their comprehensive capabilities, these HSMs can
                             support an extensive range of applications, including certificate authorities, code signing
                             and more.</p>
-                        <ul class="btn-part">
+                        <!-- <ul class="btn-part">
                             <li><a class="readon2 get-new" href="#">Download Datasheet</a></li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col-lg-6 md-mb-50">
@@ -477,12 +477,7 @@
                     </div>
                 </div>
                 <div class="tab-pane fade container" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat
-                    veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim.
-                    Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim
-                    non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor
-                    ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore.
-                    Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                    
                 </div>
             </div>
 

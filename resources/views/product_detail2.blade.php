@@ -74,13 +74,13 @@
             <div class="row y-middle">
                 <div class="col-lg-6 pl-50 md-pl-15 order-last">
                     <div class="sec-title3">
-                        <span class="sub-title primary">~ <span class="title-upper">CodeSafe</span> ~</span>
+                        <span class="sub-title primary"><span class="title-upper">CodeSafe</span></span>
                         <h2 class="title title2 pb-25">Maximize application security</h2>
                         <p class="description text-justify pb-10">The CodeSafe software developer toolkit provides the capability to create and execute sensitive applications within the protected perimeter of a FIPS 140-2 Level 3 certified nShield hardware security module (HSM).</p>
                         <p class="description text-justify pb-30"></p>
-                        <ul class="btn-part">
+                        <!-- <ul class="btn-part">
                             <li><a class="readon2 get-new" href="#">Download Datasheet</a></li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col-lg-6 md-mb-50">
@@ -93,33 +93,6 @@
 
     </div>
     <!-- About Section End -->
-
-    <!-- Services Start -->
-    <div class="rs-services style20 bg29 pt-100 pb-50 md-pt-70 md-pb-70" style="padding-bottom:100px">
-        <div class="container">
-            <div class="sec-title4 text-center mb-50">
-                <!-- <span class="sub-title new pb-10">MANAGED IT SERVICES</span> -->
-                <h2 class="title title3">Remote configuration eliminates costly trips to the data center</h2>
-                <p class="text-justify mt-4">The latest nShield Connect XC models offer an optional serial port that
-                    allows enterprises to eliminate costly repeat trips to the data center. Remote Configuration
-                    capabilities include:</p>
-
-                <ul class="listing-style text-left regular2 pl-10 sm-pl-0">
-                    <li>Initiating and changing an HSM’s network settings, e.g. IP address</li>
-                    <li>Supporting provider/tenant deployment models where the nShield HSM appliance can be easily
-                        configured by the provider before passing control of the HSM to a tenant. Separation of roles
-                        ensures the cryptographic key material is not exposed to the provider.</li>
-                    <li>Purging key material and decommissioning the nShield HSM appliance at the end of a usage cycle
-                        in preparation for its next deployment.</li>
-                </ul>
-
-                <p class="text-justify mt-4">Technicians simply need to rack and cable the nShield HSM appliance and
-                    connect a serial concentrator in the data center to prepare the nShield Connect XC for full remote
-                    configuration and administration. This reduces the need for trained resources in the data center and
-                    provides customers more efficiency and control over their HSMs.</p>
-            </div>
-        </div>
-    </div>
 
     <div class="rs-services style19 pt-100 md-pt-70 md-pb-70">
         <div class="container">
@@ -135,10 +108,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="services-single.html">Powerful Architecture</a></h3>
+                                    <h3 class="title"><a href="#">Security-sensitive Apps Protection</a></h3>
                                 </div>
-                                <p class="services-txt">Build and grow your HSM estate using Security World, Entrust's
-                                    unified ecosystem that delivers scalability, seamless failover, and load balancing.
+                                <p class="services-txt">CodeSafe can be used to execute any type of application within the tamper-resistant nShield HSM.
                                 </p>
                             </div>
                         </div>
@@ -155,10 +127,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="services-single.html">Faster Data Processing</a></h3>
+                                    <h3 class="title"><a href="#">Attack and Malware Defense</a></h3>
                                 </div>
-                                <p class="services-txt">Get some of the highest cryptographic transaction rates in the
-                                    industry. Ideal for environments where throughput is critical.</p>
+                                <p class="services-txt">Because sensitive applications execute within the HSM’s secure boundary, they are safeguarded from internal and external threats.</p>
                             </div>
                         </div>
                     </div>
@@ -174,11 +145,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="services-single.html">Protection of sensitive business
-                                            and application logic</a></h3>
+                                    <h3 class="title"><a href="#">Strong Access Control</a></h3>
                                 </div>
-                                <p class="services-txt">Execute code within nShield boundaries, protecting your
-                                    applications and the data they process.</p>
+                                <p class="services-txt">CodeSafe creates a strong binding between cryptographic processes and the keys they use.</p>
                             </div>
                         </div>
                     </div>
@@ -187,7 +156,36 @@
         </div>
     </div>
 
-    <div class="rs-shop single-product shop-rp pt-100 md-pt-80 md-pb-30">
+    <!-- Services Start -->
+    <div class="rs-services style20 bg29 pt-100 pb-50 md-pt-70 md-pb-70" style="padding-bottom:100px">
+        <div class="container">
+            <div class="sec-title4 text-center mb-50">
+                <!-- <span class="sub-title new pb-10">MANAGED IT SERVICES</span> -->
+                <h2 class="title text-left">Tech Specs</h2>
+                <p class="text-justify mt-4">CodeSafe encompasses two components: a developer toolkit to compile applications and prepare them to be imported into the HSMs, and a run time environment that protects the application when in use. CodeSafe not only carves out a segregated and protected space for security-sensitive applications to be executed, but it also creates a strong binding between the cryptographic processes and the keys they use.</p>
+
+                <p class="font-weight-bold text-left mb-1">nShield HSM Compatibility</p>
+                <p class="text-justify mb-4">CodeSafe is available with all FIPS 140-2 Level 3 certified nShield Solo PCIe and network-attached nShield Connect HSMs.</p>
+
+                <p class="font-weight-bold text-left mb-1">Operating System Support</p>
+                <p class="text-justify mb-1">CodeSafe development supported on Windows and RHEL Operating Systems</p>
+                <ul class="listing-style text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>Deployment also supported on AIX, HP-UX, and Solaris platforms.</li>
+                </ul>
+
+                <p class="font-weight-bold text-left mb-1">HSM Development Environment</p>
+                <p class="text-justify mb-1">CodeSafe is compatible with the following programming applications:</p>
+                <ul class="listing-style text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>C and C++ programming languages for embedded applications</li>
+                    <li>C, C++ and Java on host-server</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <!-- <div class="rs-shop single-product shop-rp pt-100 md-pt-80 md-pb-30">
         <div class="col-xs-12">
             <nav>
                 <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
@@ -248,7 +246,7 @@
 
         </div>
 
-    </div>
+    </div> -->
 
 
 
