@@ -1,6 +1,55 @@
 @extends('layout/template')
 @section('content')
 
+<style>
+
+nav > .nav.nav-tabs{
+
+border: none;
+  color:#fff;
+  background:#272e38;
+  border-radius:0;
+
+}
+nav > div a.nav-item.nav-link,
+nav > div a.nav-item.nav-link.active
+{
+border: none;
+  padding: 18px 25px;
+  color:#fff;
+  background:#2d7a9e;
+  border-radius:0;
+}
+
+nav > div a.nav-item.nav-link.active:after
+{
+content: "";
+position: relative;
+bottom: -60px;
+left: -10%;
+border: 15px solid transparent;
+border-top-color: #6ec1e6 ;
+}
+.tab-content{
+background: #f5fbfd;
+  line-height: 25px;
+  border: 1px solid #ddd;
+  border-top:5px solid #6ec1e6;
+  border-bottom:none;
+  padding:30px 25px 100px;
+}
+
+nav > div a.nav-item.nav-link:hover,
+nav > div a.nav-item.nav-link:focus
+{
+border: none;
+  background: #6ec1e6;
+  color:#fff;
+  border-radius:0;
+  transition:background 0.20s linear;
+}
+</style>
+
 <!-- Main content Start -->
 <div class="main-content">
     <!-- Breadcrumbs Section Start -->
@@ -114,204 +163,33 @@
         </div>
     </div>
 
-    <!-- Shop Single Page Start Here -->
-    <div class="rs-shop single-product shop-rp pt-100 pb-100 md-pt-80 md-pb-30">
-        <div class="container">
-
-            <div class="tab-area">
-                <ul class="nav nav-tabs">
-                    <li><a class="active" href="#one" data-toggle="tab">Tech Specs</a></li>
-                    <li><a href="#two" data-toggle="tab">Options and Accessories</a></li>
-                    <li><a href="#three" data-toggle="tab">Related Resources</a></li>
-                </ul>
-
-                <div class="tab-content">
-                    <div class="tab-pane active" id="one">
-                    <div class="content-block">
-<h3>
-Tech Specs
-</h3>
-<p>
-<style>
-    td {
-    padding: 20px 0px 20px 12px;
-    line-height: normal;
-    border: 1px solid;
-    }
-    th {
-    background-color: #a2b4dc;
-    padding: 20px 0px 2px 0px;
-    vertical-align: bottom;
-    } 
-    .product-description{
-        list-style: disc;
-        padding-left: 40px;
-    }
-</style>
-</p><p><strong>Certified Hardware Solutions</strong></p>
-    <p>Entrust has earned a broad set of certifications for nShield products. These certifications help our customers to demonstrate compliance while also giving them the assurance that their nShield HSMs meet stringent industry standards.</p>
-<div style="margin-left: 20px;">
-<p><strong>Security Compliance</strong>   </p>
-<ul class="product-description">
-<li>FIPS 140-2 Level 2 and Level 3</li>
-<li>USGv6 accreditation</li>
-<li>eIDAS and Common Criteria EAL4 + AVA_VAN.5 and ALC_FLR.2 certification against EN 419 221-5 Protection Profile, under the Dutch NSCIB scheme
-<ul class="product-description">
-<li>Can form the basis of an EN 419 241-2 certified remote signing system for eIDAS.</li>
-<li>Compliant with BSI AIS 31 for true and deterministic random number generation</li>
-</ul>
-</li>
-<li>Common Criteria EAL4+ (AVA_VAN.5) for nShield Connect+ models</li>
-<li>Recognition of nShield Connect+ as a Qualified Signature Creation Device (QSCD)</li>
-<li>ICP Brazil certification to NSC3 level</li>
-</ul>
-<p><strong>Safety and Environmental Standards Compliance</strong></p>
-<ul class="product-description">
-<li>UL, CE, FCC, RCM, Canada ICES</li>
-<li>RoHS2, WEEE</li>
-</ul>
-</div>
-<p><strong>High Transaction Rates</strong></p>
-<p>nShield HSMs boast high elliptic curve cryptography (ECC) and RSA transaction rates. ECC, one of the most efficient cryptographic algorithms, is particularly favored where low power consumption is crucial, such as applications running on small sensors or mobile devices.</p>
-<div style="width: 100%; overflow-x: auto;">
-<table>
-<tbody>
-<tr style="border: 1px solid;">
-<th class="col-sm-3">nShield Connect Models</th>
-<th class="col-sm-1">500+</th>
-<th class="col-sm-1">XC Base</th>
-<th class="col-sm-1">1500+</th>
-<th class="col-sm-1">6000+</th>
-<th class="col-sm-1">XC Mid</th>
-<th class="col-sm-1">XC High</th>
-</tr>
-<tr>
-<td colspan="7"><strong>RSA Signing Performance (tps) for NIST Recommended Key Lengths</strong></td>
-</tr>
-<tr>
-<td class="col-sm-3">2048 bit</td>
-<td class="col-sm-1">150</td>
-<td class="col-sm-1">430</td>
-<td class="col-sm-1">450</td>
-<td class="col-sm-1">3000</td>
-<td class="col-sm-1">3500</td>
-<td class="col-sm-1">8600</td>
-</tr>
-<tr>
-<td class="col-sm-3">4096 bit</td>
-<td class="col-sm-1">80</td>
-<td class="col-sm-1">100</td>
-<td class="col-sm-1">190</td>
-<td class="col-sm-1">500</td>
-<td class="col-sm-1">850</td>
-<td class="col-sm-1">2025</td>
-</tr>
-<tr>
-<td colspan="7"><strong>ECC Prime Curve Signing Performance (tps) for NIST Recommended Key Lengths</strong></td>
-</tr>
-<tr>
-<td class="col-sm-2">256 bit</td>
-<td class="col-sm-1">540</td>
-<td class="col-sm-1">680</td>
-<td class="col-sm-1">1260</td>
-<td class="col-sm-1">2400</td>
-<td class="col-sm-1">7512<sup>1</sup></td>
-<td class="col-sm-1">14400<sup>1</sup></td>
-</tr>
-</tbody>
-</table>
-</div>
-<br>
-<p><strong>Note 1: Performance indicated requires ECDSA fast RNG feature activation available free of charge on request from Entrust Support.</strong></p>
-<p><strong>Wide Support for APIs, Cryptographic Algorithms and OSs</strong></p>
-<div style="margin-left: 20px;">
-<p><strong>Supported APIs</strong></p>
-<ul class="product-description">
-<li>PKCS#11, OpenSSL, Java (JCE), Microsoft CAPI/ CNG and Web Services (requires Web Services Option Pack)</li>
-</ul>
-<p><strong>Supported Cryptographic Algorithms</strong></p>
-<ul class="product-description">
-<li>Asymmetric public key algorithms: RSA, Diffie-Hellman, ECMQV, DSA, KCDSA, ECDSA, ECDH, Edwards (X25519, Ed25519ph)</li>
-<li>Symmetric algorithms: AES, AES-GCM, ARIA, Camellia, CAST, RIPEMD160 HMAC, SEED, Triple DES</li>
-<li>Hash/message digest: SHA-1, SHA-2 (224, 256, 384, 512 bit), HAS-160</li>
-<li>Full Suite B implementation with fully licensed ECC including Brainpool and custom curves</li>
-<li>Elliptic Curve Key Agreement (ECKA) available via Java API and nCore APIs</li>
-<li>Elliptic Curve Integrated Encryption Scheme (ECIES) available via Java API, PKCS#11 and nCore APIs</li>
-</ul>
-<p>nShield HSMs offers support for the majority of these cryptographic algorithms as part of the standard feature set. For organizations wishing to use ECC or South Korean algorithms, optional activation licenses are needed.</p>
-<p><strong>Supported Platforms</strong></p>
-<p>Windows and Linux operating systems including distributions from RedHat, SUSE and major cloud service providers running as virtual machines or in containers.</p>
-</div>
-<p><strong>Reliability</strong></p>
-<p>Calculated at 25°C operating temperature using Telcordia SR-332 “Reliability Prediction Procedure for Electronic Equipment" MTBF Standard</p>
-<ul class="product-description">
-<li>Connect XC&nbsp;&nbsp;&nbsp;107,384 hours</li>
-<li>Connect+&nbsp;&nbsp;&nbsp;99,284 hours</li>
-</ul>
-<p></p>
-<div class="accordion-content-container">
-<div></div>
-</div>
-</div>
-                    </div><!-- #one -->
-
-                    <div class="tab-pane" id="two">
-                        <h4 class="tab-title">Additional information</h4>
-                        <table>
-                            <tbody class="table-box">
-                                <tr>
-                                    <th>color</th>
-                                    <td>red, blue</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div><!-- #two -->
-
-                    <div class="tab-pane" id="three">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-8">
-                                <div class="reviews-grid">
-                                    <div class="top-area">
-                                        <p>There are no reviews yet.</p>
-                                        <h4 class="mb-0">Be the first to review “Air Freshener Electric”</h4>
-                                    </div>
-
-                                    <form class="comment-form" id="commentform">
-                                        <p class="comment-notes">Your email address will not be published. Required fields are marked *</p>
-
-                                        <div class="placeholder-cntrl">
-                                            <label>Name *</label>
-                                            <input type="text" name="name" size="30" required>
-                                        </div>
-                                        <div class="placeholder-cntrl">
-                                            <label>Email *</label>
-                                            <input type="Email" name="email" size="30" required>
-                                        </div>
-                                        <div class="ratings mt-30">Your rating
-                                            <ul>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star-o"></i></li>
-                                            </ul>
-                                        </div>
-                                        <div class="placeholder-cntrl">
-                                            <label>Your review *</label>
-                                            <textarea required></textarea>
-                                        </div>
-                                        <button class="readon" type="submit">submit</button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- #three -->
+    <div class="rs-shop single-product shop-rp pt-100 md-pt-80 md-pb-30">
+        <div class="col-xs-12">
+            <nav>
+                <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                    <a class="nav-item nav-link active title" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Tech Specs</a>
+                    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Options and Accessories</a>
+                    <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Related Resources</a>
                 </div>
-            </div><!-- .tab-area -->
-
+            </nav>
+        
+            <div class="tab-content pb-100 px-3 px-sm-0" id="nav-tabContent">
             
+                <div class="tab-pane fade show active container" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                </div>
+                <div class="tab-pane fade container" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                </div>
+                <div class="tab-pane fade container" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                </div>            
+            </div>            
+        
         </div>
+        
     </div>
+    
 
     
 </div> 
