@@ -57,7 +57,7 @@
     <div class="rs-breadcrumbs bg-4">
         <div class="container">
             <div class="content-part text-center">
-                <h1 class="breadcrumbs-title white-color mb-0">nShield Connect HSMs</h1>
+                <h1 class="breadcrumbs-title white-color mb-0">nShield Software</h1>
             </div>
         </div>
     </div>
@@ -70,7 +70,7 @@
                 <div class="col-lg-6 pl-50 md-pl-15 order-last">
                     <div class="sec-title3">
                         <!-- <span class="sub-title">~ <span class="title-upper">About Us</span> ~</span> -->
-                        <h2 class="title title2 pb-25">nShield Connect HSMs</h2>
+                        <h2 class="title title2 pb-25">nShield Software</h2>
                         <p class="description text-justify pb-10">nShield Connect HSMs are certified hardware security
                             appliances that deliver cryptographic services to a variety of applications across the
                             network. nShield HSM appliances are hardened, tamper-resistant platforms that perform such
