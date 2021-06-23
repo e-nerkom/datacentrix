@@ -11,11 +11,11 @@ class ProductController extends Controller
         return view('product');
     }
 
-    public function productDetail($id)
+    public function productDetail($productName)
     {
-        if ($id==1) {
+        if ($productName=="nshield-hsm") {
             return view('product_detail');
-        } elseif ($id==2) {
+        } elseif ($productName=="nshield-software") {
             return view('product_detail2');
         } else {
             return view('product_detail3');

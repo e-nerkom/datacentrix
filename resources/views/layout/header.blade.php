@@ -40,9 +40,9 @@
                                                                 <div class="single-megamenu" style="width:auto">
                                                                     <ul class="sub-menu">
                                                                         <li class="menu-title">nShield</li>
-                                                                        <li><a href="/product/1">nShield HSMs</a> </li>
-                                                                        <li><a href="/product/2">nShield Software</a> </li>
-                                                                        <li><a href="/product/3">Management and Monitoring</a> </li>                                                                        
+                                                                        <li><a href="/product/nshield-hsm">nShield HSMs</a> </li>
+                                                                        <li><a href="/product/nshield-software">nShield Software</a> </li>
+                                                                        <li><a href="/product/management-and-monitoring">Management and Monitoring</a> </li>                                                                        
                                                                     </ul>
                                                                 </div>                                                                                        
                                                             </div>
