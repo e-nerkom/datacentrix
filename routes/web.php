@@ -37,7 +37,9 @@ Route::get('/contact', function () {
 });
 
 Route::get('/product', [ProductController::class, 'index']);
-Route::get('/product/{product_id}', [ProductController::class, 'productDetail']);
+Route::get('/product/1', [ProductController::class, 'productDetail']);
+Route::get('/product/2', [ProductController::class, 'productDetail2']);
+Route::get('/product/3', [ProductController::class, 'productDetail3']);
 
 Route::prefix('admin')->group(function() {
     Route::get('/login', [SuperAdminController::class, 'getLogin'])->name('login');
