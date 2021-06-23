@@ -49,6 +49,11 @@
         transition: background 0.20s linear;
     }
 
+    ul.productdescription {
+        list-style: disc;
+        padding-left: 40px;
+    }
+
 </style>
 
 <!-- Main content Start -->
@@ -69,15 +74,10 @@
             <div class="row y-middle">
                 <div class="col-lg-6 pl-50 md-pl-15 order-last">
                     <div class="sec-title3">
-                        <!-- <span class="sub-title">~ <span class="title-upper">About Us</span> ~</span> -->
-                        <h2 class="title title2 pb-25">nShield Software</h2>
-                        <p class="description text-justify pb-10">nShield Connect HSMs are certified hardware security
-                            appliances that deliver cryptographic services to a variety of applications across the
-                            network. nShield HSM appliances are hardened, tamper-resistant platforms that perform such
-                            functions as encryption, digital signing, and key generation and protection.</p>
-                        <p class="description text-justify pb-30">With their comprehensive capabilities, these HSMs can
-                            support an extensive range of applications, including certificate authorities, code signing
-                            and more.</p>
+                        <span class="sub-title primary">~ <span class="title-upper">CodeSafe</span> ~</span>
+                        <h2 class="title title2 pb-25">Maximize application security</h2>
+                        <p class="description text-justify pb-10">The CodeSafe software developer toolkit provides the capability to create and execute sensitive applications within the protected perimeter of a FIPS 140-2 Level 3 certified nShield hardware security module (HSM).</p>
+                        <p class="description text-justify pb-30"></p>
                         <ul class="btn-part">
                             <li><a class="readon2 get-new" href="#">Download Datasheet</a></li>
                         </ul>
@@ -204,12 +204,29 @@
 
                 <div class="tab-pane fade show active container" id="nav-home" role="tabpanel"
                     aria-labelledby="nav-home-tab">
-                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat
-                    veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim.
-                    Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim
-                    non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor
-                    ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore.
-                    Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                    <div class="background-section__content">
+                        <div class="promo-full">
+                        <h2 class="promo-full__headline">Tech Specs</h2>
+                        <div class="promo-full__description">
+                        <div style="text-align: left;">
+                        <p>CodeSafe encompasses two components: a developer toolkit to compile applications and prepare them to be imported into the HSMs, and a run time environment that protects the application when in use. CodeSafe not only carves out a segregated and protected space for security-sensitive applications to be executed, but it also creates a strong binding between the cryptographic processes and the keys they use.</p>
+                        <p><strong>nShield HSM Compatibility</strong></p>
+                        <p>CodeSafe is available with all FIPS 140-2 Level 3 certified nShield Solo PCIe and network-attached nShield Connect HSMs.</p>
+                        <p><strong>Operating System Support</strong></p>
+                        <p>CodeSafe development supported on Windows and RHEL Operating Systems</p>
+                        <ul class=productdescription>
+                        <li>Deployment also supported on AIX, HP-UX, and Solaris platforms</li>
+                        </ul>
+                        <p><strong>HSM Development Environment</strong></p>
+                        <p>CodeSafe is compatible with the following programming applications:</p>
+                        <ul class=productdescription>
+                        <li>C and C++ programming languages for embedded applications</li>
+                        <li>C, C++ and Java on host-server</li>
+                        </ul>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
                 </div>
                 <div class="tab-pane fade container" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat
