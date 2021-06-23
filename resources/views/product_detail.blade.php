@@ -127,7 +127,132 @@
 
                 <div class="tab-content">
                     <div class="tab-pane active" id="one">
-                        <p class="dsc-p">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,</p>
+                    <div class="content-block">
+<h3>
+Tech Specs
+</h3>
+<p>
+<style>
+    td {
+    padding: 20px 0px 20px 12px;
+    line-height: normal;
+    border: 1px solid;
+    }
+    th {
+    background-color: #a2b4dc;
+    padding: 20px 0px 2px 0px;
+    vertical-align: bottom;
+    } 
+    .product-description{
+        list-style: disc;
+        padding-left: 40px;
+    }
+</style>
+</p><p><strong>Certified Hardware Solutions</strong></p>
+    <p>Entrust has earned a broad set of certifications for nShield products. These certifications help our customers to demonstrate compliance while also giving them the assurance that their nShield HSMs meet stringent industry standards.</p>
+<div style="margin-left: 20px;">
+<p><strong>Security Compliance</strong>   </p>
+<ul class="product-description">
+<li>FIPS 140-2 Level 2 and Level 3</li>
+<li>USGv6 accreditation</li>
+<li>eIDAS and Common Criteria EAL4 + AVA_VAN.5 and ALC_FLR.2 certification against EN 419 221-5 Protection Profile, under the Dutch NSCIB scheme
+<ul class="product-description">
+<li>Can form the basis of an EN 419 241-2 certified remote signing system for eIDAS.</li>
+<li>Compliant with BSI AIS 31 for true and deterministic random number generation</li>
+</ul>
+</li>
+<li>Common Criteria EAL4+ (AVA_VAN.5) for nShield Connect+ models</li>
+<li>Recognition of nShield Connect+ as a Qualified Signature Creation Device (QSCD)</li>
+<li>ICP Brazil certification to NSC3 level</li>
+</ul>
+<p><strong>Safety and Environmental Standards Compliance</strong></p>
+<ul class="product-description">
+<li>UL, CE, FCC, RCM, Canada ICES</li>
+<li>RoHS2, WEEE</li>
+</ul>
+</div>
+<p><strong>High Transaction Rates</strong></p>
+<p>nShield HSMs boast high elliptic curve cryptography (ECC) and RSA transaction rates. ECC, one of the most efficient cryptographic algorithms, is particularly favored where low power consumption is crucial, such as applications running on small sensors or mobile devices.</p>
+<div style="width: 100%; overflow-x: auto;">
+<table>
+<tbody>
+<tr style="border: 1px solid;">
+<th class="col-sm-3">nShield Connect Models</th>
+<th class="col-sm-1">500+</th>
+<th class="col-sm-1">XC Base</th>
+<th class="col-sm-1">1500+</th>
+<th class="col-sm-1">6000+</th>
+<th class="col-sm-1">XC Mid</th>
+<th class="col-sm-1">XC High</th>
+</tr>
+<tr>
+<td colspan="7"><strong>RSA Signing Performance (tps) for NIST Recommended Key Lengths</strong></td>
+</tr>
+<tr>
+<td class="col-sm-3">2048 bit</td>
+<td class="col-sm-1">150</td>
+<td class="col-sm-1">430</td>
+<td class="col-sm-1">450</td>
+<td class="col-sm-1">3000</td>
+<td class="col-sm-1">3500</td>
+<td class="col-sm-1">8600</td>
+</tr>
+<tr>
+<td class="col-sm-3">4096 bit</td>
+<td class="col-sm-1">80</td>
+<td class="col-sm-1">100</td>
+<td class="col-sm-1">190</td>
+<td class="col-sm-1">500</td>
+<td class="col-sm-1">850</td>
+<td class="col-sm-1">2025</td>
+</tr>
+<tr>
+<td colspan="7"><strong>ECC Prime Curve Signing Performance (tps) for NIST Recommended Key Lengths</strong></td>
+</tr>
+<tr>
+<td class="col-sm-2">256 bit</td>
+<td class="col-sm-1">540</td>
+<td class="col-sm-1">680</td>
+<td class="col-sm-1">1260</td>
+<td class="col-sm-1">2400</td>
+<td class="col-sm-1">7512<sup>1</sup></td>
+<td class="col-sm-1">14400<sup>1</sup></td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+<p><strong>Note 1: Performance indicated requires ECDSA fast RNG feature activation available free of charge on request from Entrust Support.</strong></p>
+<p><strong>Wide Support for APIs, Cryptographic Algorithms and OSs</strong></p>
+<div style="margin-left: 20px;">
+<p><strong>Supported APIs</strong></p>
+<ul class="product-description">
+<li>PKCS#11, OpenSSL, Java (JCE), Microsoft CAPI/ CNG and Web Services (requires Web Services Option Pack)</li>
+</ul>
+<p><strong>Supported Cryptographic Algorithms</strong></p>
+<ul class="product-description">
+<li>Asymmetric public key algorithms: RSA, Diffie-Hellman, ECMQV, DSA, KCDSA, ECDSA, ECDH, Edwards (X25519, Ed25519ph)</li>
+<li>Symmetric algorithms: AES, AES-GCM, ARIA, Camellia, CAST, RIPEMD160 HMAC, SEED, Triple DES</li>
+<li>Hash/message digest: SHA-1, SHA-2 (224, 256, 384, 512 bit), HAS-160</li>
+<li>Full Suite B implementation with fully licensed ECC including Brainpool and custom curves</li>
+<li>Elliptic Curve Key Agreement (ECKA) available via Java API and nCore APIs</li>
+<li>Elliptic Curve Integrated Encryption Scheme (ECIES) available via Java API, PKCS#11 and nCore APIs</li>
+</ul>
+<p>nShield HSMs offers support for the majority of these cryptographic algorithms as part of the standard feature set. For organizations wishing to use ECC or South Korean algorithms, optional activation licenses are needed.</p>
+<p><strong>Supported Platforms</strong></p>
+<p>Windows and Linux operating systems including distributions from RedHat, SUSE and major cloud service providers running as virtual machines or in containers.</p>
+</div>
+<p><strong>Reliability</strong></p>
+<p>Calculated at 25°C operating temperature using Telcordia SR-332 “Reliability Prediction Procedure for Electronic Equipment" MTBF Standard</p>
+<ul class="product-description">
+<li>Connect XC&nbsp;&nbsp;&nbsp;107,384 hours</li>
+<li>Connect+&nbsp;&nbsp;&nbsp;99,284 hours</li>
+</ul>
+<p></p>
+<div class="accordion-content-container">
+<div></div>
+</div>
+</div>
                     </div><!-- #one -->
 
                     <div class="tab-pane" id="two">
