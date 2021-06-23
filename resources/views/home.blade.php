@@ -74,7 +74,7 @@
                 <div class="container">
                     <div class="slider-content">
                         <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
-                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">CODESAFE</h1>
+                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">CODESAFEgit</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
                             <span class="sl-sub-title2">Development Company</span>
                             </div> 

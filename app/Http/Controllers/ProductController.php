@@ -13,6 +13,13 @@ class ProductController extends Controller
 
     public function productDetail($id)
     {
-        return view('product_detail');
+        if ($id==1) {
+            return view('product_detail');
+        } elseif ($id==2) {
+            return view('product_detail2');
+        } else {
+            return view('product_detail3');
+        }
+        
     }
 }
