@@ -49,6 +49,11 @@
         transition: background 0.20s linear;
     }
 
+    ul.productdescription {
+        list-style: disc;
+        padding-left: 40px;
+    }
+
 </style>
 
 <!-- Main content Start -->
@@ -70,14 +75,9 @@
                 <div class="col-lg-6 pl-50 md-pl-15 order-last">
                     <div class="sec-title3">
                         <!-- <span class="sub-title">~ <span class="title-upper">About Us</span> ~</span> -->
-                        <h2 class="title title2 pb-25">Management and Monitoring</h2>
-                        <p class="description text-justify pb-10">nShield Connect HSMs are certified hardware security
-                            appliances that deliver cryptographic services to a variety of applications across the
-                            network. nShield HSM appliances are hardened, tamper-resistant platforms that perform such
-                            functions as encryption, digital signing, and key generation and protection.</p>
-                        <p class="description text-justify pb-30">With their comprehensive capabilities, these HSMs can
-                            support an extensive range of applications, including certificate authorities, code signing
-                            and more.</p>
+                        <h2 class="title title2 pb-25">Great HSM oversight with one window</h2>
+                        <p class="description text-justify pb-10">nShield Monitor is a comprehensive HSM monitoring platform that enables operations teams to gain 24x7 visibility into the status of all their nShield HSMs, including those residing across distributed data centers. With this solution, security teams can efficiently inspect HSMs and find out immediately if any potential security, configuration or utilization issue may compromise their mission-critical infrastructure.</p>
+                        <p class="description text-justify pb-30"></p>
                         <ul class="btn-part">
                             <li><a class="readon2 get-new" href="#">Download Datasheet</a></li>
                         </ul>
@@ -204,12 +204,45 @@
 
                 <div class="tab-pane fade show active container" id="nav-home" role="tabpanel"
                     aria-labelledby="nav-home-tab">
-                    Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat
-                    veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim.
-                    Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim
-                    non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor
-                    ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore.
-                    Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
+                    <div class="container">
+                        <div class="headline-section__header headline">
+                        <h2>Tech Specs</h2>
+                        </div>
+                        <div class="headline-section__description">
+                        <div style="text-align: left;">
+                        <p><strong>Central Monitoring Capabilities</strong></p>
+                        <p>nShield Monitor refreshes utilization statistics for all HSMs every minute. The solution generates alerts based on thresholds you define. Choose from email, SNMP, syslog, or web interface as the delivery channel for any alerts. You define specific time periods for in-depth analysis, including last hour, 24 hours, 7 days, 30 days, or custom intervals. nShield Monitor reports on a range of attributes including:</p>
+                        <ul class=productdescription>
+                        <li>Operational status</li>
+                        <li>Physical security and any tamper attempts</li>
+                        <li>Alarms and alerts</li>
+                        <li>Utilization and capacity</li>
+                        <li>Configuration changes with user tracking</li>
+                        </ul>
+                        <p><strong>HSM Compatibility</strong></p>
+                        <ul style="text-align: left;" class=productdescription>
+                        <li>nShield Edge, Solo, Solo+, Connect and Connect+ with Security World Software v11.72 and higher</li>
+                        <li>nShield Solo XC and Connect XC with Security World Software v12.40 and higher</li>
+                        </ul>
+                        <p><strong>Role-based Access Control</strong></p>
+                        <p>nShield supports three distinct user roles to enhance security and establish clear separation of configuration and administration duties. These three roles are:</p>
+                        <ul class=productdescription>
+                        <li>Administrator, manages deployment</li>
+                        <li>Group Manager, controls monitoring of HSMs and groups of HSMs</li>
+                        <li>Auditor, views data and reports</li>
+                        </ul>
+                        <p><strong>Virtual Appliance Minimum Specification</strong></p>
+                        <ul class=productdescription>
+                        <li>2 CPUs with 2 cores each</li>
+                        <li>8 GB RAM</li>
+                        <li>Thin provisioned hard drives</li>
+                        <li>Compatible with ESXi 5.1 and later (VM Version 9)</li>
+                        </ul>
+                        </div>
+                        </div>
+                        <div class="background-section__content">
+                        </div>
+                        </div>
                 </div>
                 <div class="tab-pane fade container" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat
