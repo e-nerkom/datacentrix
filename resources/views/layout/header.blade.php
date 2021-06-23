@@ -41,8 +41,8 @@
                                                                     <ul class="sub-menu">
                                                                         <li class="menu-title">nShield</li>
                                                                         <li><a href="/product/1">nShield HSMs</a> </li>
-                                                                        <li><a href="/product/1">nShield Software</a> </li>
-                                                                        <li><a href="/product/1">Management and Monitoring</a> </li>                                                                        
+                                                                        <li><a href="/product/2">nShield Software</a> </li>
+                                                                        <li><a href="/product/3">Management and Monitoring</a> </li>                                                                        
                                                                     </ul>
                                                                 </div>                                                                                                                               
                                                              

@@ -15,4 +15,14 @@ class ProductController extends Controller
     {
         return view('product_detail');
     }
+
+    public function productDetail2($id)
+    {
+        return view('product_detail2');
+    }
+
+    public function productDetail3($id)
+    {
+        return view('product_detail3');
+    }
 }
