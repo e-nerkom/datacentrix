@@ -28,10 +28,14 @@ class ProductController extends Controller
         } elseif ($productCategory == 'nshield-software') {
             if ($productName=="code-safe") {
                 return view('products.product_nshield_code_safe');
+            } else {
+                return view('products.product_nshield_software_option_packs');
             }
         } else {
-            if ($productName=="management-and-monitoring") {
+            if ($productName=="nshield-monitor") {
                 return view('products.product_nshield_monitor');
+            } else {
+                return view('products.product_nshield_remote_administration');
             }
         }
         
