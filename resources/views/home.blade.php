@@ -106,9 +106,8 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/1.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Jaringan</a></h3>
-                                <p class="services-txt"> We always provide people a
-                                    complete solution focused of any business.</p>
+                                <h3 class="title"> <a href="#">General Purpose HSMS</a></h3>
+                                <p class="services-txt"> nShield HSMs provide a secure solution for generating encryption and signing keys, creating digital signatures, encrypting data and more.</p>
                             </div>
                         </div>
                     </div>
@@ -120,9 +119,8 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/2.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Managed Services</a></h3>
-                                <p class="services-txt"> We always provide people a
-                                    complete solution focused of any business.</p>
+                                <h3 class="title"> <a href="#">HSM Software Developer Toolkit</a></h3>
+                                <p class="services-txt">Develop and execute sensitive code within a FIPS 140-2 Level 3 certified nShield hardware security module (HSM).</p>
                             </div>
                         </div>
                     </div>
@@ -134,9 +132,8 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/3.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Internet</a></h3>
-                                <p class="services-txt"> We always provide people a
-                                    complete solution focused of any business.</p>
+                                <h3 class="title"> <a href="#">Management and Monitoring</a></h3>
+                                <p class="services-txt"> Cut operational costs, increase uptime, and improve efficiency by managing and overseeing your nShield HSMs from one location</p>
                             </div>
                         </div>
                     </div>
@@ -156,9 +153,9 @@
                     </div>
                 </div> -->
             </div>
-                <div class="bottom-link text-center mt-43 sm-mt-23">
+                <!-- <div class="bottom-link text-center mt-43 sm-mt-23">
                     Increase your business success with technology.<a href="services.html">Let’s get started</a>
-                </div>
+                </div> -->
         </div>
     </div>
     <!-- Services End -->
@@ -169,10 +166,10 @@
             <div class="row">
                 <div class="col-lg-6 pr-70 md-pr-15 md-mb-50">
                     <div class="sec-title4 mb-30">
-                        <span class="sub-title new pb-10">Mitra Solusi TI Pilihan Utama Anda</span>
-                        <h2 class="title pb-20 lh-1">Kami meningkatkan jaringan Anda agar Anda dapat membangun bisnis dengan aman.</h2>
-                        <p class="margin-0">Setiap bisnis memiliki keunikan masing-masing. Di DataCentrix, kami ingin menambah nilai untuk bisnis Anda melalui jaringan kami, pengaturan layanan, dan penawaran solusi keamanan TI. </p>
-                        <p class="mt-3">Mengutamakan inovasi dan keahlian, Arthatel adalah mitra Anda dalam memetakan konektivitas yang efisien, mengamankan data yang penting serta memastikan sistem TIK yang Anda miliki adalah yang paling optimal dan up-to-date untuk bisnis Anda.</p>
+                        <!-- <span class="sub-title new pb-10">Mitra Solusi TI Pilihan Utama Anda</span> -->
+                        <h2 class="title pb-20 lh-1">Energizing global commerce through trust</h2>
+                        <p class="margin-0 text-justify">In a world of uncertainty, we’ve always been driven to do one thing. For more than 50 years, every innovation, every milestone has built our vision of trust. Trust empowers us to say yes, to take risks, to move forward with confidence in our environment.</p>
+                        <p class="mt-3 text-justify">We now support 6,000+ customers in more than 150 countries worldwide and manage billions of transactions annually, but we come to work every day with the same core belief—with technology built on trust, we can change the world.</p>
                     </div>
                     <!-- <div id="accordion" class="accordion">
                         <div class="card">
@@ -211,7 +208,7 @@
             </div>
         </div>
         <!-- Partner Section Start -->
-        <div class="rs-partner modify2 pt-100 md-pt-40">
+        <!-- <div class="rs-partner modify2 pt-100 md-pt-40">
             <div class="container">
                 <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5"  data-lg-device="5" data-md-device-nav="false" data-md-device-dots="false">
                     <div class="partner-item">
@@ -246,7 +243,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Partner Section End -->
     </div>
     <!-- About Section End -->
@@ -255,8 +252,8 @@
     <div class="rs-services style14 it-solutions pt-100 pb-100 md-pt-70 md-pb-70">
         <div class="container">
             <div class="sec-title4 text-center mb-50">
-                <span class="sub-title new pb-10">Valued Services</span>
-                <h2 class="title title3">Managed IT, Software, Voice & Data Services for Your Organization.</h2>
+                <span class="sub-title new pb-10">DIGITAL SECURITY</span>
+                <h2 class="title">Protect your organization from evolving security threats with high-assurance digital security solutions for any environment – cloud, on-premises, or IoT.</h2>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 mb-25">
@@ -270,11 +267,11 @@
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="services-single.html">Software Development</a></h3>
+                                        <h3 class="title"><a href="#">Identity and Access Management</a></h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
-                                            We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.
+                                        Streamline authentication with added security, including multifactor (MFA) and passwordless.
                                         </p>
                                     </div>
                                 </div>
@@ -282,14 +279,14 @@
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="services-single.html">Software Development</a></h3>
+                                        <h3 class="back-title"><a href="#">Identity and Access Management</a></h3>
                                     </div>
                                     <div class="back-desc-part">
-                                        <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
+                                        <p class="back-desc">Streamline authentication with added security, including multifactor (MFA) and passwordless.</p>
                                     </div>
-                                    <div class="back-btn-part">
-                                        <a class="readon2 view-more" href="services-single.html">View More</a>
-                                    </div>
+                                    <!-- <div class="back-btn-part">
+                                        <a class="readon2 view-more" href="#">View More</a>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -306,11 +303,11 @@
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="services-single.html">Web Development</a></h3>
+                                        <h3 class="title"><a href="#">Hardware Security Modules (HSMs)</a></h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
-                                            We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.
+                                        Keep data, applications, and cryptographic keys safe with the world’s leading HSMs.
                                         </p>
                                     </div>
                                 </div>
@@ -318,13 +315,10 @@
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="services-single.html">Web Development</a></h3>
+                                        <h3 class="back-title"><a href="#">Hardware Security Modules (HSMs)</a></h3>
                                     </div>
                                     <div class="back-desc-part">
-                                        <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
-                                    </div>
-                                    <div class="back-btn-part">
-                                        <a class="readon2 view-more" href="services-single.html">View More</a>
+                                        <p class="back-desc">Keep data, applications, and cryptographic keys safe with the world’s leading HSMs.</p>
                                     </div>
                                 </div>
                             </div>
@@ -342,11 +336,11 @@
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="services-single.html">Analytic Solutions</a></h3>
+                                        <h3 class="title"><a href="#">Digital Certificate Solutions</a></h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
-                                            We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.
+                                        Deliver high assurance with PKI and digital signing, TLS/SSL, and qualified certificates.
                                         </p>
                                     </div>
                                 </div>
@@ -354,13 +348,10 @@
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="services-single.html">Analytic Solutions</a></h3>
+                                        <h3 class="back-title"><a href="#">Digital Certificate Solutions</a></h3>
                                     </div>
                                     <div class="back-desc-part">
-                                        <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
-                                    </div>
-                                    <div class="back-btn-part">
-                                        <a class="readon2 view-more" href="services-single.html">View More</a>
+                                        <p class="back-desc">Deliver high assurance with PKI and digital signing, TLS/SSL, and qualified certificates.</p>
                                     </div>
                                 </div>
                             </div>
@@ -378,11 +369,11 @@
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="services-single.html">Cloud and DevOps</a></h3>
+                                        <h3 class="title"><a href="#">ID Issuance</a></h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
-                                            We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.
+                                        Generate government IDs, citizen IDs, badges, and more with enhanced, secure printing solutions.
                                         </p>
                                     </div>
                                 </div>
@@ -390,13 +381,10 @@
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="services-single.html">Cloud and DevOps</a></h3>
+                                        <h3 class="back-title"><a href="#">ID Issuance</a></h3>
                                     </div>
                                     <div class="back-desc-part">
-                                        <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
-                                    </div>
-                                    <div class="back-btn-part">
-                                        <a class="readon2 view-more" href="services-single.html">View More</a>
+                                        <p class="back-desc">Generate government IDs, citizen IDs, badges, and more with enhanced, secure printing solutions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -414,11 +402,11 @@
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="services-single.html">Product Design</a></h3>
+                                        <h3 class="title"><a href="#">Financial Card Issuance</a></h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
-                                            We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.
+                                        Deploy innovative, high-volume printing and instant issuance technology for financial cards.
                                         </p>
                                     </div>
                                 </div>
@@ -426,13 +414,10 @@
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="services-single.html">Product Design</a></h3>
+                                        <h3 class="back-title"><a href="#">Financial Card Issuance</a></h3>
                                     </div>
                                     <div class="back-desc-part">
-                                        <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
-                                    </div>
-                                    <div class="back-btn-part">
-                                        <a class="readon2 view-more" href="services-single.html">View More</a>
+                                        <p class="back-desc">Deploy innovative, high-volume printing and instant issuance technology for financial cards.</p>
                                     </div>
                                 </div>
                             </div>
@@ -450,11 +435,11 @@
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="services-single.html">Database Administration</a></h3>
+                                        <h3 class="title"><a href="">Passport Issuance</a></h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
-                                            We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.
+                                            Issue secure passports, e-passports, and visas with our trusted printing solutions.
                                         </p>
                                     </div>
                                 </div>
@@ -462,13 +447,10 @@
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="services-single.html">Database Administration</a></h3>
+                                        <h3 class="back-title"><a href="">Passport Issuance</a></h3>
                                     </div>
                                     <div class="back-desc-part">
-                                        <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
-                                    </div>
-                                    <div class="back-btn-part">
-                                        <a class="readon2 view-more" href="services-single.html">View More</a>
+                                        <p class="back-desc">Issue secure passports, e-passports, and visas with our trusted printing solutions.</p>
                                     </div>
                                 </div>
                             </div>
