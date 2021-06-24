@@ -314,7 +314,11 @@
                 </div>
                 
                 <div class="tab-pane fade container" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                    
+                    <div class="col-md-6">
+                        <ul class="page-nav-vertical mb-50">
+                            <li><a href="/assets/pdf/in12-6141_cr500_ds_lac_lr_es.pdf" target="_BLANK">nShield Issuance HSM Datasheet</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 
