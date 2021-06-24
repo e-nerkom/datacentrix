@@ -11,15 +11,26 @@ class ProductController extends Controller
         return view('product');
     }
 
-    public function productDetail($productName)
+    public function productDetail($productCategory, $productName)
     {
-        if ($productName=="nshield-hsm") {
-            return view('product_detail');
-        } elseif ($productName=="nshield-software") {
-            return view('product_detail2');
+        if ($productCategory == 'nshield-hsm') {
+            if ($productName=="nshield-connect") {
+                return view('products.product_nshield_connect');
+            } elseif ($productName=="nshield-edge") {
+                return view('products.product_nshield_edge');
+            } elseif ($productName=="nshield-solo") {
+                return view('products.product_nshield_solo');
+            }
+        } elseif ($productCategory == 'nshield-software') {
+            if ($productName=="code-safe") {
+                return view('products.product_nshield_code_safe');
+            }
         } else {
-            return view('product_detail3');
+            if ($productName=="management-and-monitoring") {
+                return view('products.product_nshield_monitor');
+            }
         }
+        
         
     }
 }
