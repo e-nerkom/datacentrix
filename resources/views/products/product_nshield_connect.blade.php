@@ -181,7 +181,7 @@
                                 <img class="up-down-new" src="/assets/images/services/apps/1.png" alt="images">
                             </div>
                             <div class="icon-part">
-                                <i class="fa fa-bar-chart-o"></i>
+                                <i class="fa fa-sitemap"></i>
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
@@ -201,7 +201,7 @@
                                 <img class="up-down-new" src="/assets/images/services/apps/2.png" alt="images">
                             </div>
                             <div class="icon-part purple-bg">
-                                <i class="fa fa-clone"></i>
+                                <i class="fa fa-bolt"></i>
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
@@ -220,7 +220,7 @@
                                 <img class="up-down-new" src="/assets/images/services/apps/3.png" alt="images">
                             </div>
                             <div class="icon-part blue-bg">
-                                <i class="fa fa-sitemap"></i>
+                                <i class="fa fa-shield"></i>
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
