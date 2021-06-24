@@ -477,7 +477,17 @@
                     </div>
                 </div>
                 <div class="tab-pane fade container" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                    
+                    <div class="col-md-6">
+                        <ul class="page-nav-vertical mb-50">
+                            <li><a href="/assets/pdf/entrust-nshield-connect-ds.pdf" target="_BLANK">nShield Connect HSMs Datasheet</a></li>
+                            <li><a href="/assets/pdf/nshield-hsm-fips-common-criteria-certification-reference-rg.pdf" target="_BLANK">Entrust nShield HSM FIPS 140-2 and Common Criteria Security Certifications</a></li>
+                            <li><a href="/assets/pdf/entrust-codesafe-ds.pdf" target="_BLANK">CodeSafe Datasheet</a></li>
+                            <li><a href="/assets/pdf/entrust-nshield-remote-administration-ds.pdf" target="_BLANK">nShield Remote Administration Datasheet</a></li>
+                            <li><a href="/assets/pdf/entrust-nshield-monitor-ds.pdf" target="_BLANK">nShield Monitor Datasheet</a></li>
+                            <li><a href="/assets/pdf/entrust-nshield-web-services-option-pack-ds.pdf" target="_BLANK">Web Services Option Pack Datasheett</a></li>
+                        </ul>
+                    </div>
+                        
                 </div>
             </div>
 

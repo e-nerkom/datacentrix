@@ -386,7 +386,12 @@
                     </div>
                 </div>
                 <div class="tab-pane fade container" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                    
+                    <div class="col-md-6">
+                        <ul class="page-nav-vertical mb-50">
+                            <li><a href="/assets/pdf/entrust-nshield-as-a-service-ds.pdf" target="_BLANK">nShield as a Service Datasheet</a></li>
+                            <li><a href="/assets/pdf/entrust-nshield-connect-ds.pdf" target="_BLANK">nShield Connect Datasheet</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 
