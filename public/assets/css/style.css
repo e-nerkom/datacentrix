@@ -1540,11 +1540,11 @@ ul.page-nav-vertical li a {
   position: relative;
 }
 ul.page-nav-vertical li a:before {
-  content: "\f113";
+  content: "\f019";
   position: absolute;
   right: 12px;
   top: 16px;
-  font-family: Flaticon;
+  font-family: 'FontAwesome';
   color: #1c1b1b;
   transition: all .5s ease;
 }
