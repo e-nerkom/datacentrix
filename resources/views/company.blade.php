@@ -57,16 +57,15 @@
                 <h2 class="title title3">More than 30+ years we provide IT & Software Solution</h2>
             </div> -->
             <div class="row">
-                <div class="col-lg-4 col-md-6 md-mb-30">
+            <div class="col-lg-4 col-md-6 md-mb-30">
                     <div class="services-item">
                         <div class="iconbox-area">
                             <div class="icon-part">
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/1.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Jaringan</a></h3>
-                                <p class="services-txt"> We always provide people a
-                                    complete solution focused of any business.</p>
+                                <h3 class="title"> <a href="#">General Purpose HSMS</a></h3>
+                                <p class="services-txt"> nShield HSMs provide a secure solution for generating encryption and signing keys, creating digital signatures, encrypting data and more.</p>
                             </div>
                         </div>
                     </div>
@@ -78,9 +77,8 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/2.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Managed Services</a></h3>
-                                <p class="services-txt"> We always provide people a
-                                    complete solution focused of any business.</p>
+                                <h3 class="title"> <a href="#">HSM Software Developer Toolkit</a></h3>
+                                <p class="services-txt">Develop and execute sensitive code within a FIPS 140-2 Level 3 certified nShield hardware security module (HSM).</p>
                             </div>
                         </div>
                     </div>
@@ -92,9 +90,8 @@
                                 <a href="#"><img class="dance_hover" src="/assets/images/content/icon/3.png" alt="Images"></a>
                             </div>
                             <div class="services-content">
-                                <h3 class="title"> <a href="services-single.html">Internet</a></h3>
-                                <p class="services-txt"> We always provide people a
-                                    complete solution focused of any business.</p>
+                                <h3 class="title"> <a href="#">Management and Monitoring</a></h3>
+                                <p class="services-txt"> Cut operational costs, increase uptime, and improve efficiency by managing and overseeing your nShield HSMs from one location</p>
                             </div>
                         </div>
                     </div>
