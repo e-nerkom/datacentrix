@@ -20,6 +20,10 @@ class ProductController extends Controller
                 return view('products.product_nshield_edge');
             } elseif ($productName=="nshield-solo") {
                 return view('products.product_nshield_solo');
+            } elseif ($productName=="nshield-as-service") {
+                return view('products.product_nshield_as_service');
+            } else {
+                return view('products.product_nshield_hsmi');
             }
         } elseif ($productCategory == 'nshield-software') {
             if ($productName=="code-safe") {
