@@ -62,7 +62,7 @@
     <div class="rs-breadcrumbs bg-4">
         <div class="container">
             <div class="content-part text-center">
-                <h1 class="breadcrumbs-title white-color mb-0">nShield Software</h1>
+                <h1 class="breadcrumbs-title white-color mb-0">Management and Monitoring</h1>
             </div>
         </div>
     </div>
@@ -74,9 +74,9 @@
             <div class="row y-middle">
                 <div class="col-lg-6 pl-50 md-pl-15 order-last">
                     <div class="sec-title3">
-                        <span class="sub-title primary"><span class="title-upper">CodeSafe</span></span>
-                        <h2 class="title title2 pb-25">Maximize application security</h2>
-                        <p class="description text-justify pb-10">The CodeSafe software developer toolkit provides the capability to create and execute sensitive applications within the protected perimeter of a FIPS 140-2 Level 3 certified nShield hardware security module (HSM).</p>
+                        <!-- <span class="sub-title">~ <span class="title-upper">About Us</span> ~</span> -->
+                        <h2 class="title title2 pb-25">Great HSM oversight with one window</h2>
+                        <p class="description text-justify pb-10">nShield Monitor is a comprehensive HSM monitoring platform that enables operations teams to gain 24x7 visibility into the status of all their nShield HSMs, including those residing across distributed data centers. With this solution, security teams can efficiently inspect HSMs and find out immediately if any potential security, configuration or utilization issue may compromise their mission-critical infrastructure.</p>
                         <p class="description text-justify pb-30"></p>
                         <!-- <ul class="btn-part">
                             <li><a class="readon2 get-new" href="#">Download Datasheet</a></li>
@@ -96,6 +96,7 @@
 
     <div class="rs-services style19 pt-100 md-pt-70 md-pb-70">
         <div class="container">
+            <h2 class="title title2 text-center pb-25">nShield Monitor Benefits</h2>
             <div class="row margin-0 hover-effect">
                 <div class="col-lg-4 col-md-6 md-mb-30 padding-0">
                     <div class="services-item">
@@ -108,9 +109,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="#">Security-sensitive Apps Protection</a></h3>
+                                    <h3 class="title"><a href="#">Operation Costs Reduction</a></h3>
                                 </div>
-                                <p class="services-txt">CodeSafe can be used to execute any type of application within the tamper-resistant nShield HSM.
+                                <p class="services-txt">Eliminate the costs associated with physically accessing HSMs to retrieve important data.
                                 </p>
                             </div>
                         </div>
@@ -127,9 +128,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="#">Attack and Malware Defense</a></h3>
+                                    <h3 class="title"><a href="#">Utilization Optimization</a></h3>
                                 </div>
-                                <p class="services-txt">Because sensitive applications execute within the HSM’s secure boundary, they are safeguarded from internal and external threats.</p>
+                                <p class="services-txt">Find trends in HSM performance and capacity to assist in optimizing deployment architecture.</p>
                             </div>
                         </div>
                     </div>
@@ -145,9 +146,9 @@
                             </div>
                             <div class="services-content">
                                 <div class="services-title">
-                                    <h3 class="title"><a href="#">Strong Access Control</a></h3>
+                                    <h3 class="title"><a href="#">Increased Responsiveness</a></h3>
                                 </div>
-                                <p class="services-txt">CodeSafe creates a strong binding between cryptographic processes and the keys they use.</p>
+                                <p class="services-txt">Equip administrators with the timely, targeted insights they need to proactively take corrective actions.</p>
                             </div>
                         </div>
                     </div>
@@ -162,22 +163,36 @@
             <div class="sec-title4 text-center mb-50">
                 <!-- <span class="sub-title new pb-10">MANAGED IT SERVICES</span> -->
                 <h2 class="title text-left">Tech Specs</h2>
-                <p class="text-justify mt-4">CodeSafe encompasses two components: a developer toolkit to compile applications and prepare them to be imported into the HSMs, and a run time environment that protects the application when in use. CodeSafe not only carves out a segregated and protected space for security-sensitive applications to be executed, but it also creates a strong binding between the cryptographic processes and the keys they use.</p>
-
-                <p class="font-weight-bold text-left mb-1">nShield HSM Compatibility</p>
-                <p class="text-justify mb-4">CodeSafe is available with all FIPS 140-2 Level 3 certified nShield Solo PCIe and network-attached nShield Connect HSMs.</p>
-
-                <p class="font-weight-bold text-left mb-1">Operating System Support</p>
-                <p class="text-justify mb-1">CodeSafe development supported on Windows and RHEL Operating Systems</p>
-                <ul class="listing-style text-left regular2 pl-10 sm-pl-0 mb-4">
-                    <li>Deployment also supported on AIX, HP-UX, and Solaris platforms.</li>
+                <p class="font-weight-bold text-left mb-1 mt-30">Central Monitoring Capabilities</p>
+                <p class="text-justify">nShield Monitor refreshes utilization statistics for all HSMs every minute. The solution generates alerts based on thresholds you define. Choose from email, SNMP, syslog, or web interface as the delivery channel for any alerts. You define specific time periods for in-depth analysis, including last hour, 24 hours, 7 days, 30 days, or custom intervals. nShield Monitor reports on a range of attributes including:</p>
+                <ul class="productdescription text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>Operational status</li>
+                    <li>Physical security and any tamper attempts</li>
+                    <li>Alarms and alerts</li>
+                    <li>Utilization and capacity</li>
+                    <li>Configuration changes with user tracking</li>
                 </ul>
 
-                <p class="font-weight-bold text-left mb-1">HSM Development Environment</p>
-                <p class="text-justify mb-1">CodeSafe is compatible with the following programming applications:</p>
-                <ul class="listing-style text-left regular2 pl-10 sm-pl-0 mb-4">
-                    <li>C and C++ programming languages for embedded applications</li>
-                    <li>C, C++ and Java on host-server</li>
+                <p class="font-weight-bold text-left mb-1">HSM Compatibility</p>
+                <ul class="productdescription text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>nShield Edge, Solo, Solo+, Connect and Connect+ with Security World Software v11.72 and higher</li>
+                    <li>nShield Solo XC and Connect XC with Security World Software v12.40 and higher</li>
+                </ul>
+
+                <p class="font-weight-bold text-left mb-1">Role-based Access Control</p>
+                <p class="text-justify mb-1">nShield supports three distinct user roles to enhance security and establish clear separation of configuration and administration duties. These three roles are:</p>
+                <ul class="productdescription text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>Administrator, manages deployment</li>
+                    <li>Group Manager, controls monitoring of HSMs and groups of HSMs</li>
+                    <li>Auditor, views data and reports</li>
+                </ul>
+
+                <p class="font-weight-bold text-left mb-1">Virtual Appliance Minimum Specification</p>
+                <ul class="productdescription text-left regular2 pl-10 sm-pl-0 mb-4">
+                    <li>2 CPUs with 2 cores each</li>
+                    <li>8 GB RAM</li>
+                    <li>Thin provisioned hard drives</li>
+                    <li>Compatible with ESXi 5.1 and later (VM Version 9)</li>
                 </ul>
             </div>
         </div>
@@ -202,27 +217,43 @@
 
                 <div class="tab-pane fade show active container" id="nav-home" role="tabpanel"
                     aria-labelledby="nav-home-tab">
-                    <div class="background-section__content">
-                        <div class="promo-full">
-                        <h2 class="promo-full__headline">Tech Specs</h2>
-                        <div class="promo-full__description">
+                    <div class="container">
+                        <div class="headline-section__header headline">
+                        <h2>Tech Specs</h2>
+                        </div>
+                        <div class="headline-section__description">
                         <div style="text-align: left;">
-                        <p>CodeSafe encompasses two components: a developer toolkit to compile applications and prepare them to be imported into the HSMs, and a run time environment that protects the application when in use. CodeSafe not only carves out a segregated and protected space for security-sensitive applications to be executed, but it also creates a strong binding between the cryptographic processes and the keys they use.</p>
-                        <p><strong>nShield HSM Compatibility</strong></p>
-                        <p>CodeSafe is available with all FIPS 140-2 Level 3 certified nShield Solo PCIe and network-attached nShield Connect HSMs.</p>
-                        <p><strong>Operating System Support</strong></p>
-                        <p>CodeSafe development supported on Windows and RHEL Operating Systems</p>
+                        <p><strong>Central Monitoring Capabilities</strong></p>
+                        <p>nShield Monitor refreshes utilization statistics for all HSMs every minute. The solution generates alerts based on thresholds you define. Choose from email, SNMP, syslog, or web interface as the delivery channel for any alerts. You define specific time periods for in-depth analysis, including last hour, 24 hours, 7 days, 30 days, or custom intervals. nShield Monitor reports on a range of attributes including:</p>
                         <ul class=productdescription>
-                        <li>Deployment also supported on AIX, HP-UX, and Solaris platforms</li>
+                        <li>Operational status</li>
+                        <li>Physical security and any tamper attempts</li>
+                        <li>Alarms and alerts</li>
+                        <li>Utilization and capacity</li>
+                        <li>Configuration changes with user tracking</li>
                         </ul>
-                        <p><strong>HSM Development Environment</strong></p>
-                        <p>CodeSafe is compatible with the following programming applications:</p>
+                        <p><strong>HSM Compatibility</strong></p>
+                        <ul style="text-align: left;" class=productdescription>
+                        <li>nShield Edge, Solo, Solo+, Connect and Connect+ with Security World Software v11.72 and higher</li>
+                        <li>nShield Solo XC and Connect XC with Security World Software v12.40 and higher</li>
+                        </ul>
+                        <p><strong>Role-based Access Control</strong></p>
+                        <p>nShield supports three distinct user roles to enhance security and establish clear separation of configuration and administration duties. These three roles are:</p>
                         <ul class=productdescription>
-                        <li>C and C++ programming languages for embedded applications</li>
-                        <li>C, C++ and Java on host-server</li>
+                        <li>Administrator, manages deployment</li>
+                        <li>Group Manager, controls monitoring of HSMs and groups of HSMs</li>
+                        <li>Auditor, views data and reports</li>
+                        </ul>
+                        <p><strong>Virtual Appliance Minimum Specification</strong></p>
+                        <ul class=productdescription>
+                        <li>2 CPUs with 2 cores each</li>
+                        <li>8 GB RAM</li>
+                        <li>Thin provisioned hard drives</li>
+                        <li>Compatible with ESXi 5.1 and later (VM Version 9)</li>
                         </ul>
                         </div>
                         </div>
+                        <div class="background-section__content">
                         </div>
                         </div>
                 </div>
