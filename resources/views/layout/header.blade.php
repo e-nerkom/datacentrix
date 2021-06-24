@@ -33,16 +33,32 @@
                                             <ul class="nav-menu">
 
                                                 <li class="rs-mega-menu mega-rs menu-item-has-children {{ Request::is('product') ? 'current-menu-item' : '' }}"> <a href="#">Product</a>
-                                                    <ul class="mega-menu" style="min-width:auto;right:0"> 
+                                                    <ul class="mega-menu"> 
                                                         <li class="mega-menu-container">
                                                             <div class="mega-menu-innner">
 
-                                                                <div class="single-megamenu" style="width:auto">
+                                                                <div class="single-megamenu">
                                                                     <ul class="sub-menu">
-                                                                        <li class="menu-title">nShield</li>
-                                                                        <li><a href="/product/nshield-hsm">nShield HSMs</a> </li>
-                                                                        <li><a href="/product/nshield-software">nShield Software</a> </li>
-                                                                        <li><a href="/product/management-and-monitoring">Management and Monitoring</a> </li>                                                                        
+                                                                        <li class="menu-title">nShield HSMs</li>
+                                                                        <li><a href="/product/nshield-hsm/nshield-connect">nShield Connect</a> </li>
+                                                                        <li><a href="/product/nshield-hsm/nshield-edge">nShield Edge</a> </li>
+                                                                        <li><a href="/product/nshield-hsm/nshield-solo">nShield Solo</a> </li>                                                                        
+                                                                        <li><a href="/product/nshield-hsm/nshield-as-service">nShield as Service</a> </li>                                                                        
+                                                                        <li><a href="/product/nshield-hsm/nshield-hsmi">nShield HSMi</a> </li>                                                                        
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+                                                                        <li class="menu-title">nShield Software</li>
+                                                                        <li><a href="/product/nshield-software/code-safe">Code Safe</a></li>                                                                   
+                                                                        <li><a href="/product/nshield-software/software-option-packs">Software Option Packs</a></li>                                                                   
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+                                                                        <li class="menu-title">Management and Monitoring</li>
+                                                                        <li><a href="/product/management-and-monitoring/nshield-monitor">nShield Monitor</a></li>                                                                   
+                                                                        <li><a href="/product/management-and-monitoring/nshield-remote-administration">nShield Remote Administration</a></li>                                                                   
                                                                     </ul>
                                                                 </div>                                                                                        
                                                             </div>
