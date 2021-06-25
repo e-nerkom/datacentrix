@@ -55,7 +55,7 @@ class SuperAdminController extends Controller
         ]);
 
         $userRole = UserRole::create([
-            'role_id' => 2,
+            'role_id' => 1,
             'user_id' => $user->id
         ]);
 
