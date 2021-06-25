@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SuperAdminController;
 use App\Http\Controllers\WelcomeAdminController;
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,9 +33,8 @@ Route::get('/solutions', function () {
     return view('solutions');
 });
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('/contact', [ContactController::class, 'index']);
+Route::post('/contact', [ContactController::class, 'sendMessage']);
 
 Route::get('/product', [ProductController::class, 'index']);
 Route::get('/product/{product_category}/{product_name}', [ProductController::class, 'productDetail']);
