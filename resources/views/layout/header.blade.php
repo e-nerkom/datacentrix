@@ -64,7 +64,7 @@
                                                                 <div class="single-megamenu">
                                                                     <ul class="sub-menu">
                                                                         <li class="menu-title">
-                                                                        <a href="#" style="font-size:17px;font-weight:600;width:100%;padding:0 !important;">TransConfirm</a></li>
+                                                                        <a href="/product/payment/transconfirm" style="font-size:17px;font-weight:600;width:100%;padding:0 !important;">TransConfirm</a></li>
                                                                     </ul>
                                                                 </div>                                                                                     
                                                             </div>

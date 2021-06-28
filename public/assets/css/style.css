@@ -4365,7 +4365,7 @@ input[type=range]::-ms-fill-upper {
 }
 .full-width-header.header-style2 .rs-header .menu-area.sticky {
   /* background: #ffffff !important; */
-  background: rgba(255,255,255,0.95) !important;
+  background: rgba(255,255,255,0.8) !important;
 }
 .full-width-header.header-style2 .rs-header .menu-area.sticky .logo-area {
   height: 103px;

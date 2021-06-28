@@ -31,11 +31,15 @@ class ProductController extends Controller
             } else {
                 return view('products.product_nshield_software_option_packs');
             }
-        } else {
+        } elseif ($productCategory == 'management-and-monitoring') {
             if ($productName=="nshield-monitor") {
                 return view('products.product_nshield_monitor');
             } else {
                 return view('products.product_nshield_remote_administration');
+            }
+        } else {
+            if ($productName == "transconfirm") {
+                return view('products.product_trans_confirm');
             }
         }
         
