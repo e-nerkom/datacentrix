@@ -4,6 +4,8 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SuperAdminController;
 use App\Http\Controllers\WelcomeAdminController;
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\ContactController;
+use App\Http\Controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,9 +34,8 @@ Route::get('/solutions', function () {
     return view('solutions');
 });
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('/contact', [ContactController::class, 'index']);
+Route::post('/contact', [ContactController::class, 'sendMessage']);
 
 Route::get('/product', [ProductController::class, 'index']);
 Route::get('/product/{product_category}/{product_name}', [ProductController::class, 'productDetail']);
@@ -47,4 +48,11 @@ Route::prefix('admin')->group(function() {
     Route::get('/logout', [SuperAdminController::class, 'logout']);
 
     Route::get('/welcome', [WelcomeAdminController::class, 'index']);
+
+    Route::get('/user', [UserController::class, 'index']);
+    Route::get('/user/{user_id}', [UserController::class, 'show']);
+    Route::post('/user/{user_id}', [UserController::class, 'update']);
+    Route::get('/user/add', [UserController::class, 'add']);
+    Route::get('/user/delete/{user_id}', [UserController::class, 'delete']);
+
 });
