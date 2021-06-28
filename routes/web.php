@@ -53,6 +53,6 @@ Route::prefix('admin')->group(function() {
     Route::get('/user/{user_id}', [UserController::class, 'show']);
     Route::post('/user/{user_id}', [UserController::class, 'update']);
     Route::get('/user/add', [UserController::class, 'add']);
-    Route::get('/user/delete/{user_id}', [UserController::class, 'delete']);
+    Route::get('/user/delete/{user_id6}', [UserController::class, 'delete']);
 
 });
