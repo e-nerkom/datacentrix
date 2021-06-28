@@ -55,13 +55,13 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
+                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms"></div>
                         <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">TRANSCONFIRM</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">MOBILE TRANSACTION AUTHENTICATION SIGNATURE</span>
+                            <span class="sl-sub-title2">MOBILE TRANSACTIONAUTHENTICATION SIGNATURE</span> 
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="contact.html">Read More</a>
                             </div> 
                     </div>
                     <div class="image-part">
@@ -73,13 +73,13 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
+                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms"></div>
                         <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">CODESAFE</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
                             <span class="sl-sub-title2">Development Company</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="contact.html">Read More</a>
                             </div> 
                     </div>
                     <div class="image-part">
