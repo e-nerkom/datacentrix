@@ -43,7 +43,7 @@
                             <span class="sl-sub-title2">Development Company</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="#">Get In Touch</a>
                             </div> 
                     </div>
                     <div class="image-part">
@@ -61,7 +61,7 @@
                             <span class="sl-sub-title2">MOBILE TRANSACTION AUTHENTICATION SIGNATURE</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="#">Get In Touch</a>
                             </div> 
                     </div>
                     <div class="image-part">
@@ -79,7 +79,7 @@
                             <span class="sl-sub-title2">Development Company</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="/product/nshield-software/code-safe">Learn More</a>
                             </div> 
                     </div>
                     <div class="image-part">
