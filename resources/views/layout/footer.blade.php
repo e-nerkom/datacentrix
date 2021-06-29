@@ -21,7 +21,7 @@
                                 <div class="logo-part">
                                     <a href="index.html"><img src="/assets/images/logo.png" alt="Footer Logo"></a>
                                 </div>
-                                <p class="desc">Data Centrix Nusantara Is A Jakarta Based
+                                <p class="desc">Data Centrix Nusantara Is A Jakarta Based<br>
                                 Technology Company Specializing In Cybersecurity And IT Solutions<br>Data Centrix is your reliable and trusted partner.</p>
                                 <!-- <div class="btn-part">
                                     <a class="readon" href="about.html">Discover More</a>
