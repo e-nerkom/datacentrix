@@ -16,7 +16,7 @@
     <!-- Contact Section Start -->
     <div id="rs-contact" class="rs-contact style1 inner">
         
-        <div class="gray-bg pt-100 pb-100 md-pt-80 md-pb-80">
+        <div class="gray-bg pt-100 pb-100 md-pt-80 md-pb-80" style="background: linear-gradient(#fcfcfc, #f1f6fc);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 form-part white-bg">

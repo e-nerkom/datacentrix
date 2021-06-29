@@ -14,7 +14,7 @@
     <!-- Breadcrumbs Section End -->
 
     <!-- About Section Start -->
-    <div class="rs-about inner pt-100 lg-pt-92 md-pt-80 pb-100 md-pb-80">
+    <div class="rs-about inner pt-100 lg-pt-92 md-pt-80 pb-100 md-pb-80" style="background: linear-gradient(#f8f9fd, white);">
         <div class="container">
             <div class="row y-middle mb-64 lg-mb-30 md-mb-0">
                 <!-- <div class="col-lg-6 md-mb-95">
