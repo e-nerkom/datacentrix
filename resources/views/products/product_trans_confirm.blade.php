@@ -114,58 +114,20 @@
     <!-- Breadcrumbs Section End -->
 
     <!-- About Section Start -->
-    <div id="rs-about" class="rs-about style8 pt-100 pb-100 md-pt-70 md-pb-40">
-        <div class="container">
-            <div class="row y-middle">
-                <div class="col-lg-12 pl-50 md-pl-15 order-last">
-                    <div class="sec-title3">
-                        <!-- <span class="sub-title">~ <span class="title-upper">About Us</span> ~</span> -->
-                        <h2 class="title pb-25">MOBILE TRANSACTION AUTHENTICATION SIGNATURE (MTAS) DALAM SMARTPHONE ANDA</h2>
-                        <p class="description text-justify pb-10">PayConfirm merupakan platform perangkat lunak yang menjalankan mobile transaction authentication signature (mTAS) yang bertujuan untuk mengotentikasi atau mengonfirmasi semua jenis operasi, termasuk transaksi atau e-dokumen, pada smartphone Anda.</p>
-                        <p class="description text-justify pb-10">Kami memberikan solusi kepada pelanggan dengan memberikan tingkat keamanan yang tinggi dengan cara yang mudah, untuk melindungi transaksi mereka, melalui berbagai macam saluran digital, seperti Internet banking, mobile banking, CNP operations dan private banking.</p>
-                        <p class="description text-justify pb-10">Tidak lagi menggunakan kartu, USB-tokens, OTP atau hardware lainnya. Tidak perlu bergantung pada operator selular atau SMS yang biasanya lambat terkirim.</p>
-                        <p class="description text-justify pb-10">Tidak seperti OTP, mTAS yang dibuat melalui PayConfirm terikat pada detail pembayaran dan smartphone pengguna. Solusi ini menawarkan perlindungan dari ancaman keamanan paling umum di digital perbankan seperti penipuan pertukaran SIM, phishing, penggantian detail rekening bank dan ancaman keamanan lainnya.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- <div class="row y-middle pt-50">
-                <div class="col-lg-6 pl-50 md-pl-15 order-last">
-                    <div class="sec-title3">
-                        <h2 class="title title2 pb-25">MOBILE TRANSACTION AUTHENTICATION SIGNATURE (MTAS) DALAM SMARTPHONE ANDA</h2>
-                        <p class="description text-justify pb-10">PayConfirm merupakan platform perangkat lunak yang menjalankan mobile transaction authentication signature (mTAS) yang bertujuan untuk mengotentikasi atau mengonfirmasi semua jenis operasi, termasuk transaksi atau e-dokumen, pada smartphone Anda.</p>
-                        <p class="description text-justify pb-10">Kami memberikan solusi kepada pelanggan dengan memberikan tingkat keamanan yang tinggi dengan cara yang mudah, untuk melindungi transaksi mereka, melalui berbagai macam saluran digital, seperti Internet banking, mobile banking, CNP operations dan private banking.</p>
-                        <p class="description text-justify pb-10">Tidak lagi menggunakan kartu, USB-tokens, OTP atau hardware lainnya. Tidak perlu bergantung pada operator selular atau SMS yang biasanya lambat terkirim.</p>
-                        <p class="description text-justify pb-10">Tidak seperti OTP, mTAS yang dibuat melalui PayConfirm terikat pada detail pembayaran dan smartphone pengguna. Solusi ini menawarkan perlindungan dari ancaman keamanan paling umum di digital perbankan seperti penipuan pertukaran SIM, phishing, penggantian detail rekening bank dan ancaman keamanan lainnya. Teknologi kami sudah berhasil diadopsi dan digunakan oleh lebih dari 60 bank di seluruh dunia.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 md-mb-50">
-                    <div class="images-part">
-                        <img src="/assets/images/product_detail/payconfirm.png" alt="images">
-                    </div>
-                </div>
-            </div> -->
-
-            
-
-        </div>
-
-    </div>
-    <!-- About Section End -->
-
-    <div class="rs-about style10 gray-bg5 pt-130 pb-100 md-pt-70 md-pb-70">
+    <div class="rs-about style10 pt-130 pb-100 md-pt-70 md-pb-70">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 pr-70 md-pr-15 md-mb-50">
+                <div class="col-lg-7 pr-70 md-pr-15 md-mb-50">
                     <div class="sec-title4 mb-30">
-                        <!-- <span class="sub-title new pb-10">Mitra Solusi TI Pilihan Utama Anda</span> -->
-                        <h2 class="title pb-20 lh-1">Secure Payment</h2>
-                        <p class="margin-0 text-justify">mTAS dibuat berdasarkan empat acuan komponen: detail transaksi, waktu saat di-generate, fingerprint perangkat dan kunci pengguna</p>
-                        <p class="mt-3 text-justify">Dua saluran komunikasi independen digunakan untuk mengaktifkan aplikasi PayConfirm di smartphone pengguna</p>
-                        <p class="mt-3 text-justify">Kunci keamanan ada di perangkat pengguna dan disimpan dengan aman dalam bentuk ter-enkripsi.</p>
+                        <!-- <span class="sub-title new pb-10">About Us</span> -->
+                        <h5 class="mb-20">MOBILE TRANSACTION AUTHENTICATION SIGNATURE (MTAS)<br> IN A SMARTPHONE</h5>
+                        <p class="text-justify mb-10">TransConfirm is a software platform that performs mobile transaction authentication signature (mTAS) to authenticate or confirm any type of operations, including transactions or e-documents, on a mobile device.</p>
+                        <p class="text-justify mb-10">Our solution provides clients with a high level of security and an easy way to protect their payments, generated via any digital channels, such as Internet banking, mobile banking, CNP operations, private banking.</p>
+                        <p class="text-justify  mb-10">No more scratch-cards, USB-tokens, OTP-generators or any other hardware solutions are needed. There is no dependency on mobile operator service and SMS delivery time.</p>
                     </div>
+                    
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                     <div class="about-content">
                         <div class="images-part">
                             <img src="/assets/images/product_detail/payconfirm.png" alt="Images">
@@ -176,23 +138,95 @@
         </div>
         
     </div>
+    <!-- About Section End -->
 
-    <div class="rs-about style10 pt-130 pb-100 md-pt-70 md-pb-70">
+    <div class="rs-about style10 gray-bg5 pt-130 pb-100 md-pt-70 md-pb-70">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+            <div   div class="col-lg-5">
                     <div class="about-content">
                         <div class="images-part">
                             <img src="/assets/images/product_detail/payconfirm.png" alt="Images">
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 pr-70 md-pr-15 md-mb-50">
+                <div class="col-lg-7 pr-70 md-pr-15 md-mb-50">
                     <div class="sec-title4 mb-30">
-                        <!-- <span class="sub-title new pb-10">Mitra Solusi TI Pilihan Utama Anda</span> -->
-                        <h2 class="title pb-20 lh-1">Transactions Without Rejection</h2>
-                        <p class="margin-0 text-justify">Pengguna tidak hanya mengkonfirmasi rincian pembayaran, tetapi menandatanganinya secara digital dan akan diberitahu tentang status transaksi setelahnya</p>
-                        <p class="mt-3 text-justify">TransConfirm menggunakan algoritma kriptografi asimetris, sehingga hanya pengguna yang dapat melakukan tanda tangan digital.</p>
+                        <!-- <span class="sub-title new pb-10">About Us</span> -->
+                        <!-- <h5 class="mb-20">MOBILE TRANSACTION AUTHENTICATION SIGNATURE (MTAS)<br> IN A SMARTPHONE</h5> -->
+                        
+                        <p class="text-justify mb-10">Unlike OTP, mTAS created with PayConfirm is bound to the payment’s details and user’s smartphone. This solution offers protection from the most common security threats in digital banking such as SIM swap fraud, phishing, bank account details replacement and other security threats.</p>
+                    </div>
+                    <div id="accordion" class="accordion">
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="collapsed card-link" data-toggle="collapse" href="#collapseOne">CONFIRM ANY TYPES OF OPERATIONS</a>
+                            </div>
+                            <div id="collapseOne" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <p class="mb-10">
+                                    No more codes retyping from SMS, PUSH notifications and OTP generators.
+                                    </p>
+                                    <p class="mb-10">
+                                    Trusted solution based on cryptography.
+                                    </p>
+                                    <p class="mb-10">
+                                    Real-time notification right in a smartphone.
+                                    </p>                                    
+                                </div>                                
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">SECURITY AND FRAUD PROTECTION</a>
+                            </div>
+                            <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <p class="mb-10">
+                                    Protection from phishing, social engineering, data switching.
+                                    </p>
+                                    <p class="mb-10">
+                                    Device scoring and anomalies detection.
+                                    </p>
+                                    <p class="mb-10">
+                                    SMS interception and SIM swap attack protection.
+                                    </p>  
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">SECURE TRANSACTIONS</a>
+                            </div>
+                            <div id="collapseThree" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <p class="mb-10">
+                                    mTAS is generated on the basis of four components: transaction details, generation time, device fingerprint and user’s key.
+                                    </p>
+                                    <p class="mb-10">
+                                    Two independent communication channels are used to activate PayConfirm app in a user’s smartphone.
+                                    </p>
+                                    <p class="mb-10">
+                                    The security key is generated in the user’s smartphone and stored safely in the encrypted form.
+                                    </p>  
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour">TRANSACTIONS NON-REPUDIATION</a>
+                            </div>
+                            <div id="collapseFour" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <p class="mb-10">
+                                    User not just confirms payment details, but signs them digitally and will be informed about transaction status afterwards
+                                    </p>
+                                    <p class="mb-10">
+                                    TransConfirm uses asymmetric cryptographic algorithms, thus, there is only the user who can generate a digital signature.
+                                    </p> 
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 
@@ -201,53 +235,7 @@
         
     </div>
 
-    <div class="rs-about style10 gray-bg5 pt-130 pb-100 md-pt-70 md-pb-70">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 pr-70 md-pr-15 md-mb-50">
-                    <div class="sec-title4 mb-30">
-                        <!-- <span class="sub-title new pb-10">Mitra Solusi TI Pilihan Utama Anda</span> -->
-                        <h2 class="title pb-20 lh-1">Confirming All Types of Operation</h2>
-                        <p class="margin-0 text-justify">No more OTP code and Push Notification.</p>
-                        <p class="mt-3 text-justify">Trusted solution based on cryptography</p>
-                        <p class="mt-3 text-justify">Quickly and Realtime notification in Smartphone.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="about-content">
-                        <div class="images-part">
-                            <img src="/assets/images/product_detail/payconfirm.png" alt="Images">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-
-    <div class="rs-about style10 gray-bg5 pt-130 pb-100 md-pt-70 md-pb-70">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="about-content">
-                        <div class="images-part">
-                            <img src="/assets/images/product_detail/payconfirm.png" alt="Images">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 pr-70 md-pr-15 md-mb-50">
-                    <div class="sec-title4 mb-30">
-                        <!-- <span class="sub-title new pb-10">Mitra Solusi TI Pilihan Utama Anda</span> -->
-                        <h2 class="title pb-20 lh-1">Security and Fraud Protection.</h2>
-                        <p class="margin-0 text-justify">Proteksi dari phishing atau pencurian akun, rekayasa, perpindahan data</p>
-                        <p class="mt-3 text-justify">Menggunakan Teknik Device Scoring dan deteksi anomali</p>
-                        <p class="mt-3 text-justify">Perlindungan dari intersepsi SMS dan SIM swap attack.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    </div>
+    
 
 
     <!-- <div class="rs-services style19 pt-100 md-pt-70 md-pb-70">

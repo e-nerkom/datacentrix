@@ -7379,11 +7379,12 @@ body .modal-backdrop {
   font-weight: 700;
 }
 .rs-about.style10 .accordion .card .card-body {
-  background: #f9f9f9;
+  background: #ffffff;
   font-weight: 400;
   color: #363636;
   padding: 17px 65px 40px 22px !important;
   border: none;
+  border-top: 1px solid #e8e8e8;
 }
 .rs-about.style10 .accordion .card .card-header .card-link {
   position: relative;
