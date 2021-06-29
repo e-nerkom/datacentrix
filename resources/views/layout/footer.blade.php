@@ -21,7 +21,8 @@
                                 <div class="logo-part">
                                     <a href="index.html"><img src="/assets/images/logo.png" alt="Footer Logo"></a>
                                 </div>
-                                <p class="desc">We denounce with righteous indignation in and dislike men who are so beguiled and to demo realized by the charms of pleasure moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound.</p>
+                                <p class="desc">Data Centrix Nusantara Is A Jakarta Based
+                                Technology Company Specializing In Cybersecurity And IT Solutions<br>Data Centrix is your reliable and trusted partner.</p>
                                 <!-- <div class="btn-part">
                                     <a class="readon" href="about.html">Discover More</a>
                                 </div> -->
