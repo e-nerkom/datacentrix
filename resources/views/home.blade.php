@@ -65,7 +65,7 @@
                             </div> 
                     </div>
                     <div class="image-part">
-                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/2nd.png" alt="Images">
+                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/transconfirm.png" alt="Images">
                     </div>
                 </div>
             </div>
@@ -79,11 +79,7 @@
                             <span class="sl-sub-title2">Development Company</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-<<<<<<< HEAD
                             <a class="readon2 slide-quote touch" href="/product/nshield-software/code-safe">Learn More</a>
-=======
-                            <a class="readon2 slide-quote touch" href="contact.html">Read More</a>
->>>>>>> fba48e7cc268499f572cb6957b501c4d79285f9b
                             </div> 
                     </div>
                     <div class="image-part">
