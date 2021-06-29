@@ -1,7 +1,7 @@
 <!-- Footer Start -->
         <footer id="rs-footer" class="rs-footer style4">
             <div class="container">
-                <div class="footer-newsletter">
+                <!-- <div class="footer-newsletter">
                     <div class="row y-middle">
                         <div class="col-md-6 sm-mb-26">
                             <h3 class="title white-color mb-0">Newsletter Subscribe</h3>
@@ -13,18 +13,19 @@
                             </form>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="footer-content pt-62 pb-79 md-pb-64 sm-pt-48">
                     <div class="row">
-                        <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-39">
+                        <div class="col-lg-5 col-md-12 col-sm-12 footer-widget md-mb-39">
                             <div class="about-widget pr-15">
                                 <div class="logo-part">
                                     <a href="index.html"><img src="/assets/images/logo.png" alt="Footer Logo"></a>
                                 </div>
-                                <p class="desc">We denounce with righteous indignation in and dislike men who are so beguiled and to demo realized by the charms of pleasure moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound.</p>
-                                <div class="btn-part">
+                                <p class="desc">Data Centrix Nusantara Is A Jakarta Based
+                                Technology Company Specializing In Cybersecurity And IT Solutions<br>Data Centrix is your reliable and trusted partner.</p>
+                                <!-- <div class="btn-part">
                                     <a class="readon" href="about.html">Discover More</a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 col-sm-12 md-mb-32 footer-widget">
@@ -38,6 +39,11 @@
                                         Jakarta Selatan 12310
                                     </div>
                                 </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-3 col-md-12 col-sm-12 md-mb-32 footer-widget">
+                            <h4 class="widget-title">&nbsp;</h4>
+                            <ul class="address-widget pr-40">
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <div class="desc">
@@ -52,7 +58,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">
+                        <!-- <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">
                             <h4 class="widget-title">Latest Posts</h4>
                             <div class="footer-post">
                                 <div class="post-wrap mb-15">
@@ -92,24 +98,24 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="footer-bottom">
                     <div class="row y-middle">
-                        <div class="col-lg-6 col-md-8 sm-mb-21">
+                        <div class="col-lg-12 col-md-8 sm-mb-21 text-center">
                             <div class="copyright">
-                                <p>© Copyright 2021 Reobiz. All Rights Reserved.</p>
+                                <p>© Copyright 2021 Data Centrix Nusantara. All Rights Reserved.</p>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-4 text-right sm-text-center">
+                        <!-- <div class="col-lg-6 col-md-4 text-right sm-text-center">
                             <ul class="footer-social">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

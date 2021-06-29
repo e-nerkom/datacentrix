@@ -52,7 +52,7 @@
                             <li><a href="#"><i class="fa fa-cog"></i>Settings</a></li>
                             <li class="dropdown-divider"></li>
                             <li><a href="lock-screen.html"><i class="fa fa-lock"></i>Lock Screen</a></li>
-                            <li><a href="#"><i class="fa fa-power-off"></i>Logout</a></li>
+                            <li><a href="/admin/logout"><i class="fa fa-power-off"></i>Logout</a></li>
                         </ul>
                     </li>
                     <!-- Nav User End -->

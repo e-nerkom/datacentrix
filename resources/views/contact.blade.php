@@ -16,7 +16,7 @@
     <!-- Contact Section Start -->
     <div id="rs-contact" class="rs-contact style1 inner">
         
-        <div class="gray-bg pt-100 pb-100 md-pt-80 md-pb-80">
+        <div class="gray-bg pt-100 pb-100 md-pt-80 md-pb-80" style="background: linear-gradient(#fcfcfc, #f1f6fc);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 form-part white-bg">
@@ -25,21 +25,41 @@
                             <h2 class="title mb-0">Contact Us</h2>
                         </div>
                         <div id="form-messages"></div>
-                        <form id="contact-form" class="contact-form" method="post" action="mailer.php">
+                        <form class="contact-form" method="POST" action="/contact">
+                            @if ($errors->any())
+                                <div class="alert alert-danger">
+                                    <ul>
+                                        @foreach ($errors->all() as $error)
+                                            <li>{{ $error }}</li>
+                                        @endforeach
+                                    </ul>
+                                </div>
+                            @endif
+                            @if (session('message'))                
+                            <div class="alert alert-info alert-dismissable">
+                                <div class="text-body">{{ session('message') }}</div>
+                            </div>
+                            @endif
+                            @if (session('err'))                
+                            <div class="alert alert-danger alert-dismissable">
+                                <div class="text-body">{{ session('err') }}</div>
+                            </div>
+                            @endif
+                            @csrf
                             <div class="row">
                                 <div class="col-md-6 mb-30">
                                     <div class="common-control form-group mb-0">
-                                        <input type="text" name="name" placeholder="Name" required="">
+                                        <input type="text" name="name" placeholder="Name">
                                     </div>
                                 </div>
                                 <div class="col-md-6 mb-30">
                                     <div class="common-control form-group mb-0">
-                                        <input type="email" name="email" placeholder="Email" required="">
+                                        <input type="email" name="email" placeholder="Email">
                                     </div>
                                 </div>
                                 <div class="col-md-12 mb-30">
                                     <div class="common-control form-group mb-0">
-                                        <input type="text" name="subject" placeholder="Subject" required="">
+                                        <input type="text" name="subject" placeholder="Subject">
                                     </div>
                                 </div>
                                 <!-- <div class="col-md-6 mb-30">
@@ -49,12 +69,12 @@
                                 </div> -->
                                 <div class="col-md-12 mb-30">
                                     <div class="common-control form-group mb-0">
-                                        <textarea name="message" placeholder="Your Message Here" required=""></textarea>
+                                        <textarea name="message" placeholder="Your Message Here"></textarea>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="submit-btn form-group mb-0">
-                                        <button type="submit" class="readon">Submit Now</button>
+                                        <button type="submit" name="submit" class="readon">Submit Now</button>
                                     </div>
                                 </div>
                             </div>

@@ -37,13 +37,12 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">It Software & Design</div>
-                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">Leading It & Software</h1>
+                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">Hardware Security Module</h1>
                             <div class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">Development Company</span>
+                            <span class="sl-sub-title2">A Leader in the<br> Cyber Security Field.</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="/product/nshield-hsm/nshield-connect">Learn More</a>
                             </div> 
                     </div>
                     <div class="image-part">
@@ -55,17 +54,17 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
+                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Airome</div>
                         <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">TRANSCONFIRM</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">MOBILE TRANSACTION AUTHENTICATION SIGNATURE</span>
+                            <span class="sl-sub-title2">MOBILE TRANSACTION <br>AUTHENTICATION SIGNATURE</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="/product/payment/transconfirm">Learn More</a>
                             </div> 
                     </div>
                     <div class="image-part">
-                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/2nd.png" alt="Images">
+                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/transconfirm.png" alt="Images">
                     </div>
                 </div>
             </div>
@@ -73,13 +72,12 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
                         <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">CODESAFE</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">Development Company</span>
+                            <span class="sl-sub-title2">Maximize application security</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="contact.html">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="/product/nshield-software/code-safe">Learn More</a>
                             </div> 
                     </div>
                     <div class="image-part">
@@ -96,7 +94,7 @@
         <div class="container">
             <div class="sec-title4 text-center mb-50">
                 <span class="sub-title new pb-10">MANAGED IT SERVICES</span>
-                <h2 class="title title3">More than 30+ years we provide IT & Software Solution</h2>
+                <h2 class="title title3">More than 10+ years we provide IT & Software Solution</h2>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 md-mb-30">
@@ -249,7 +247,7 @@
     <!-- About Section End -->
 
     <!-- Services Section Start -->
-    <div class="rs-services style14 it-solutions pt-100 pb-100 md-pt-70 md-pb-70">
+    <!-- <div class="rs-services style14 it-solutions pt-100 pb-100 md-pt-70 md-pb-70">
         <div class="container">
             <div class="sec-title4 text-center mb-50">
                 <span class="sub-title new pb-10">DIGITAL SECURITY</span>
@@ -284,9 +282,6 @@
                                     <div class="back-desc-part">
                                         <p class="back-desc">Streamline authentication with added security, including multifactor (MFA) and passwordless.</p>
                                     </div>
-                                    <!-- <div class="back-btn-part">
-                                        <a class="readon2 view-more" href="#">View More</a>
-                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -459,138 +454,138 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Services Section End -->
 
     <!-- Testimonial Section Start -->
-    <div class="rs-testimonial style10 modify1 bg43  pt-100 pb-140 md-pt-70">
-                <div class="container">
-                    <div class="sec-title5 text-center">
-                        <span class="sub-title white-color pb-10">Testimonials</span>
-                        <h2 class="title pb-20 white-color">Customers Reviews</h2>
-                    </div>
-                    <div class="slick-part single-product-slider">
-                        <div class="slider slider-for">
-                            <div class="images-slide-single">
-                                <div class="single-testimonial">
-                                    <div class="content-part">
-                                        <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
-                                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="images-slide-single">
-                                <div class="single-testimonial">
-                                    <div class="content-part">
-                                        <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
-                                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="images-slide-single">
-                                <div class="single-testimonial">
-                                    <div class="content-part">
-                                        <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
-                                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="images-slide-single">
-                                <div class="single-testimonial">
-                                    <div class="content-part">
-                                       <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
-                                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="images-slide-single">
-                                <div class="single-testimonial">
-                                    <div class="content-part">
-                                        <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
-                                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
-                                    </div>
-                                </div>
+    <!-- <div class="rs-testimonial style10 modify1 bg43  pt-100 pb-140 md-pt-70">
+        <div class="container">
+            <div class="sec-title5 text-center">
+                <span class="sub-title white-color pb-10">Testimonials</span>
+                <h2 class="title pb-20 white-color">Customers Reviews</h2>
+            </div>
+            <div class="slick-part single-product-slider">
+                <div class="slider slider-for">
+                    <div class="images-slide-single">
+                        <div class="single-testimonial">
+                            <div class="content-part">
+                                <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
+                                <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                             </div>
                         </div>
-                        <div class="slider slider-nav">
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/1.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Monty Moni</div>
-                                    <span class="testi-title">CEO, Brick Consulting</span>
-                                </div>
+                    </div>
+                    <div class="images-slide-single">
+                        <div class="single-testimonial">
+                            <div class="content-part">
+                                <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
+                                <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                             </div>
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/2.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Monir Khan</div>
-                                    <span class="testi-title">CEO, Brick Consulting</span>
-                                </div>
+                        </div>
+                    </div>
+                    <div class="images-slide-single">
+                        <div class="single-testimonial">
+                            <div class="content-part">
+                                <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
+                                <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                             </div>
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/3.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Mala Akter</div>
-                                    <span class="testi-title">Digital Marketer</span>
-                                </div>
+                        </div>
+                    </div>
+                    <div class="images-slide-single">
+                        <div class="single-testimonial">
+                            <div class="content-part">
+                                <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
+                                <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                             </div>
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/4.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Maria Akter</div>
-                                    <span class="testi-title">Youtuber</span>
-                                </div>
-                            </div>
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/5.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Masud Rana</div>
-                                    <span class="testi-title">Web Developer</span>
-                                </div>
-                            </div>  
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/1.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Monty Moni</div>
-                                    <span class="testi-title">CEO, Brick Consulting</span>
-                                </div>
-                            </div>
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/2.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Monir Khan</div>
-                                    <span class="testi-title">CEO, Brick Consulting</span>
-                                </div>
-                            </div>
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/3.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Mala Akter</div>
-                                    <span class="testi-title">Digital Marketer</span>
-                                </div>
-                            </div>
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/4.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Maria Akter</div>
-                                    <span class="testi-title">Youtuber</span>
-                                </div>
-                            </div>
-                            <div class="images-single">
-                                <img src="assets/images/testimonial/avatar/5.jpg" alt="Single Product">
-                                <div class="testi-content">
-                                    <div class="testi-name">Masud Rana</div>
-                                    <span class="testi-title">Web Developer</span>
-                                </div>
+                        </div>
+                    </div>
+                    <div class="images-slide-single">
+                        <div class="single-testimonial">
+                            <div class="content-part">
+                                <img class="quote" src="assets/images/testimonial/quote-h16.png" alt="Image">
+                                <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="slider slider-nav">
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/1.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Monty Moni</div>
+                            <span class="testi-title">CEO, Brick Consulting</span>
+                        </div>
+                    </div>
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/2.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Monir Khan</div>
+                            <span class="testi-title">CEO, Brick Consulting</span>
+                        </div>
+                    </div>
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/3.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Mala Akter</div>
+                            <span class="testi-title">Digital Marketer</span>
+                        </div>
+                    </div>
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/4.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Maria Akter</div>
+                            <span class="testi-title">Youtuber</span>
+                        </div>
+                    </div>
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/5.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Masud Rana</div>
+                            <span class="testi-title">Web Developer</span>
+                        </div>
+                    </div>  
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/1.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Monty Moni</div>
+                            <span class="testi-title">CEO, Brick Consulting</span>
+                        </div>
+                    </div>
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/2.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Monir Khan</div>
+                            <span class="testi-title">CEO, Brick Consulting</span>
+                        </div>
+                    </div>
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/3.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Mala Akter</div>
+                            <span class="testi-title">Digital Marketer</span>
+                        </div>
+                    </div>
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/4.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Maria Akter</div>
+                            <span class="testi-title">Youtuber</span>
+                        </div>
+                    </div>
+                    <div class="images-single">
+                        <img src="assets/images/testimonial/avatar/5.jpg" alt="Single Product">
+                        <div class="testi-content">
+                            <div class="testi-name">Masud Rana</div>
+                            <span class="testi-title">Web Developer</span>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <!-- Testimonial Section End -->
+        </div>
+    </div> -->
+    <!-- Testimonial Section End -->
 
     <!-- Team Section Start -->
-    <div class="rs-team style2 modify1 pt-100 pb-100 md-pt-70 md-pb-70"> 
+    <!-- <div class="rs-team style2 modify1 pt-100 pb-100 md-pt-70 md-pb-70"> 
         <div class="container">
             <div class="sec-title5 text-center mb-50 md-mb-35">
                 <span class="sub-title new-title pb-7">Expert People</span>
@@ -739,7 +734,7 @@
                 </div>
             </div>
         </div> 
-    </div>
+    </div> -->
     <!-- Team Section End -->
 
 </div> 

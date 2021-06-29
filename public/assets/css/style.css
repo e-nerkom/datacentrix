@@ -4027,7 +4027,7 @@ input[type=range]::-ms-fill-upper {
   left: 0;
   width: 100%;
   background: #ffffff !important;
-  box-shadow: 0 0 20px -10px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0 20px 0px rgb(0 0 0 / 80%);
 }
 .full-width-header .rs-header .menu-area.sticky .logo-area {
   height: 72px;
@@ -4302,27 +4302,29 @@ input[type=range]::-ms-fill-upper {
   color: #2d7a9e !important;
 }
 .full-width-header.header-style2 .rs-header .menu-area .main-menu .rs-menu ul.sub-menu {
-  background: #2d7a9e;
+  /* background: #09215b; */
+  background: rgba(9,33,91, 0) !important;
 }
 .full-width-header.header-style2 .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li a {
-  color: #ffffff;
+  color: #092361;
 }
 .full-width-header.header-style2 .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li a:hover {
-  color: #ccc !important;
+  color: #48aecd !important;
 }
 .full-width-header.header-style2 .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li.active a {
   color: #ccc !important;
 }
 .full-width-header.header-style2 .rs-header .menu-area .main-menu .rs-menu ul.mega-menu {
-  background: #2d7a9e;
+  /* background: #09215b; */
+  background: rgb(255 255 255 / 80%) !important;
   min-width: 1150px;
   right: -320px;
 }
 .full-width-header.header-style2 .rs-header .menu-area .main-menu .rs-menu ul.mega-menu .mega-menu-container .single-megamenu .sub-menu .menu-title {
-  color: #ffffff;
+  color: #092361;
 }
 .full-width-header.header-style2 .rs-header .menu-area .main-menu .rs-menu ul.mega-menu .mega-menu-container .single-megamenu:hover .sub-menu .menu-title {
-  color: #ccc;
+  color: #48aecd;
 }
 .full-width-header.header-style2 .rs-header .menu-area .main-menu .rs-menu ul.mega-menu.home2 {
   right: -220px;
@@ -4362,7 +4364,8 @@ input[type=range]::-ms-fill-upper {
   background: #ffffff;
 }
 .full-width-header.header-style2 .rs-header .menu-area.sticky {
-  background: #ffffff !important;
+  /* background: #ffffff !important; */
+  background: rgba(255,255,255,0.8) !important;
 }
 .full-width-header.header-style2 .rs-header .menu-area.sticky .logo-area {
   height: 103px;
@@ -7376,11 +7379,12 @@ body .modal-backdrop {
   font-weight: 700;
 }
 .rs-about.style10 .accordion .card .card-body {
-  background: #f9f9f9;
+  background: #ffffff;
   font-weight: 400;
   color: #363636;
   padding: 17px 65px 40px 22px !important;
   border: none;
+  border-top: 1px solid #e8e8e8;
 }
 .rs-about.style10 .accordion .card .card-header .card-link {
   position: relative;
