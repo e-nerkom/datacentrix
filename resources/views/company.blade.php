@@ -4,7 +4,7 @@
 <!-- Main content Start -->
 <div class="main-content">
     <!-- Breadcrumbs Section Start -->
-    <div class="rs-breadcrumbs bg-1">
+    <div class="rs-breadcrumbs bg-2">
         <div class="container">
             <div class="content-part text-center">
                 <h1 class="breadcrumbs-title white-color mb-0">Company</h1>

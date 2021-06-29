@@ -146,7 +146,7 @@
             <div   div class="col-lg-5">
                     <div class="about-content">
                         <div class="images-part">
-                            <img src="/assets/images/product_detail/payconfirm.png" alt="Images">
+                            <img src="/assets/images/product_detail/payconfirm2.png" alt="Images">
                         </div>
                     </div>
                 </div>
