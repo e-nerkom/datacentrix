@@ -26,7 +26,7 @@
                     <div class="sec-title mb-25">
                         <div class="sub-title text-center primary">Company</div>
                         <!-- <h2 class="title mb-18">We Provides Best Advice For Your Business</h2> -->
-                        <h3 class="title text-center" style="line-height:38px;letter-spacing:1px">Data Centrix Nusantara is a Jakarta Based technology company specializing in Cybersecurity and IT Solutions</h3>
+                        <h4 class="title text-center text-capitalize" style="letter-spacing:1px">Data Centrix Nusantara is a Jakarta Based<br> technology company specializing in Cybersecurity and IT Solutions</h4>
                     </div>
                     <div class="desc text-justify">                    
                     As a data-driven company, we continuously redefine and reinvent our sustainable technology solutions to meet future challenges and necessities.                            

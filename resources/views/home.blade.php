@@ -37,13 +37,12 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">It Software & Design</div>
-                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">Leading It & Software</h1>
+                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">Hardware Security Module</h1>
                             <div class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">Development Company</span>
+                            <span class="sl-sub-title2">A Leader in the<br> Cyber Security Field.</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="#">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="/product/nshield-hsm/nshield-connect">Learn More</a>
                             </div> 
                     </div>
                     <div class="image-part">
@@ -55,17 +54,17 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
+                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Airome</div>
                         <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">TRANSCONFIRM</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">MOBILE TRANSACTION AUTHENTICATION SIGNATURE</span>
+                            <span class="sl-sub-title2">MOBILE TRANSACTION <br>AUTHENTICATION SIGNATURE</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="#">Get In Touch</a>
+                            <a class="readon2 slide-quote touch" href="/product/payment/transconfirm">Learn More</a>
                             </div> 
                     </div>
                     <div class="image-part">
-                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/2nd.png" alt="Images">
+                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/transconfirm.png" alt="Images">
                     </div>
                 </div>
             </div>
@@ -73,10 +72,9 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Manage It, Software</div>
                         <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">CODESAFE</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">Development Company</span>
+                            <span class="sl-sub-title2">Maximize application security</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
                             <a class="readon2 slide-quote touch" href="/product/nshield-software/code-safe">Learn More</a>
