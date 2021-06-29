@@ -24,7 +24,7 @@
             data-loop="true" 
             data-items="1" 
             data-margin="30" 
-            data-autoplay="false" 
+            data-autoplay="true" 
             data-hoverpause="true" 
             data-autoplay-timeout="5000" 
             data-smart-speed="800" 
