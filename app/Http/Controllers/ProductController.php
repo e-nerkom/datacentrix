@@ -37,9 +37,13 @@ class ProductController extends Controller
             } else {
                 return view('products.product_nshield_remote_administration');
             }
-        } else {
+        } elseif ($productCategory == 'payment') {
             if ($productName == "transconfirm") {
                 return view('products.product_trans_confirm');
+            }
+        } else {
+            if ($productName == "key-management-software") {
+                return view('products.product_kms');
             }
         }
         
