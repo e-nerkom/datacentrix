@@ -72,11 +72,11 @@
                             <span class="sl-sub-title2">Next Generation<br> Enterprise Key Management.</span>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <a class="readon2 slide-quote touch" href="/product/nshield-hsm/nshield-connect">Learn More</a>
+                            <a class="readon2 slide-quote touch" href="/product/kms/key-management-software">Learn More</a>
                             </div> 
                     </div>
                     <div class="image-part">
-                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/1st.png" alt="Images">
+                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/4th.png" alt="Images">
                     </div>
                 </div>
             </div>
