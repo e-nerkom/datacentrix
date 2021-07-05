@@ -4,7 +4,7 @@
 <!-- Main content Start -->
 <div class="main-content">
     <!-- Breadcrumbs Section Start -->
-    <div class="rs-breadcrumbs bg-1">
+    <div class="rs-breadcrumbs bg-8">
         <div class="container">
             <div class="content-part text-center">
                 <h1 class="breadcrumbs-title white-color mb-0">Company</h1>
@@ -23,10 +23,10 @@
                     </div>
                 </div> -->
                 <div class="col-lg-12 pl-50 md-pl-15 pr-50 lg-pr-15">
-                    <div class="sec-title mb-25">
-                        <div class="sub-title text-center primary">Company</div>
+                    <div class="sec-title4 mb-25">
+                        <div class="sub-title text-primary">Company</div>
                         <!-- <h2 class="title mb-18">We Provides Best Advice For Your Business</h2> -->
-                        <h4 class="title text-center text-capitalize" style="letter-spacing:1px">Data Centrix Nusantara is a Jakarta Based<br> technology company specializing in Cybersecurity and IT Solutions</h4>
+                        <h3 class="title title3 text-capitalize" style="font-size:24px;margin:0">Data Centrix Nusantara is a Jakarta Based<br> technology company specializing in Cybersecurity and IT Solutions</h3>
                     </div>
                     <div class="desc text-justify">                    
                     As a data-driven company, we continuously redefine and reinvent our sustainable technology solutions to meet future challenges and necessities.                            

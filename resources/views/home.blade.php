@@ -1,5 +1,18 @@
 @extends('layout/template')
 @section('content')
+
+<style>
+    ul.list-slider li:before {
+        content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+        color: #ffffff; /* Change the color */
+        font-weight: bold; /* If you want it to be bold */
+        display: inline-block; /* Needed to add space between the bullet and the text */
+        width: 1em;
+    }
+    ul.list-slider li span {
+        color: #ffffff;
+    }
+</style>
     
 <!-- Main content Start -->
 <div class="main-content">
@@ -54,10 +67,31 @@
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">
-                        <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Airome</div>
+                        <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">Key Management Software</h1>
+                            <div class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
+                            <span class="sl-sub-title2">Next Generation<br> Enterprise Key Management.</span>
+                            </div> 
+                            <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
+                            <a class="readon2 slide-quote touch" href="/product/kms/key-management-software">Learn More</a>
+                            </div> 
+                    </div>
+                    <div class="image-part">
+                        <img class="wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms" src="/assets/images/content/4th.png" alt="Images">
+                    </div>
+                </div>
+            </div>
+            <!-- Slide 3 -->
+            <div class="slider">
+                <div class="container">
+                    <div class="slider-content">
+                        <!-- <div class="sl-sub-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Airome</div> -->
                         <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">TRANSCONFIRM</h1>
                             <div class="sl-bwow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                            <span class="sl-sub-title2">MOBILE TRANSACTION <br>AUTHENTICATION SIGNATURE</span>
+                                <span class="sl-sub-title2" style="margin-bottom:10px">MOBILE TRANSACTION <br>AUTHENTICATION SIGNATURE</span>
+                                <ul class="list-slider mb-20">
+                                    <li><span>Replacing SMS, OTP and push codes for online and mobile banking.</span></li>
+                                    <li><span>Easy integration into mobile banking applications.</span></li>
+                                </ul>
                             </div> 
                             <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
                             <a class="readon2 slide-quote touch" href="/product/payment/transconfirm">Learn More</a>
@@ -68,7 +102,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Slide 3 -->
+            <!-- Slide 4 -->
             <div class="slider">
                 <div class="container">
                     <div class="slider-content">

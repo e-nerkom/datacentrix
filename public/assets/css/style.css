@@ -640,7 +640,7 @@ button:focus {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   color: #ffffff;
-  background: #2d7a9e;
+  background: #0b378f;
   transition: all 0.3s ease;
 }
 .readon.banner-style {
@@ -3419,7 +3419,7 @@ body.marketing #scrollUp i {
 .sec-title4 .title.title3 {
   color: #1c1b1b;
   font-family: poppins, sans-serif;
-  max-width: 670px;
+  max-width: 840px;
   margin: 0 auto;
 }
 .sec-title4 .desc {
@@ -13866,7 +13866,7 @@ body .modal-backdrop {
   color: #a19e9e;
 }
 .rs-contact.style1 .contact-info {
-  background: #2d7a9e;
+  background: #0b378f;
   height: 100%;
   color: #ffffff;
   padding: 50px;
@@ -16110,6 +16110,7 @@ body .modal-backdrop {
 }
 .rs-footer .footer-content .about-widget .desc {
   color: #e0e0e0;
+  font-size: 14px;
 }
 .rs-footer .footer-content .address-widget li {
   margin-bottom: 24px;

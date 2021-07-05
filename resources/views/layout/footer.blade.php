@@ -1,19 +1,6 @@
 <!-- Footer Start -->
         <footer id="rs-footer" class="rs-footer style4">
             <div class="container">
-                <!-- <div class="footer-newsletter">
-                    <div class="row y-middle">
-                        <div class="col-md-6 sm-mb-26">
-                            <h3 class="title white-color mb-0">Newsletter Subscribe</h3>
-                        </div>
-                        <div class="col-md-6 text-right">
-                            <form class="newsletter-form">
-                                <input type="email" name="email" placeholder="Your email address" required="">
-                                <button type="submit"><i class="fa fa-paper-plane"></i></button>
-                            </form>
-                        </div>
-                    </div>
-                </div> -->
                 <div class="footer-content pt-62 pb-79 md-pb-64 sm-pt-48">
                     <div class="row">
                         <div class="col-lg-5 col-md-12 col-sm-12 footer-widget md-mb-39">
@@ -21,7 +8,7 @@
                                 <div class="logo-part">
                                     <a href="index.html"><img src="/assets/images/logo.png" alt="Footer Logo"></a>
                                 </div>
-                                <p class="desc">Data Centrix Nusantara Is A Jakarta Based
+                                <p class="desc">Data Centrix Nusantara Is A Jakarta Based<br>
                                 Technology Company Specializing In Cybersecurity And IT Solutions<br>Data Centrix is your reliable and trusted partner.</p>
                                 <!-- <div class="btn-part">
                                     <a class="readon" href="about.html">Discover More</a>
